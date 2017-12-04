@@ -52,6 +52,31 @@
     <Channel id="ed240148-c083-4ca2-889d-f2711c34d8ce" name="SpiralTree_01-red-03" />
     <Channel id="b0cd962b-e727-4e3b-86ee-f796d2a46991" name="SpiralTree_01-red-02" />
     <Channel id="c634495a-baac-460d-ab65-a9d05958f795" name="SpiralTree_01-red-01" />
+    <Channel id="7466bf8f-48e6-4c98-8d86-aecf7eb0e5cf" name="SpiralTree_01-blue-01" />
+    <Channel id="7aa74083-7ab3-4ad3-a41d-cd61cc840d41" name="SpiralTree_01-blue-02" />
+    <Channel id="c1880d10-73a4-46e1-bf4c-eb502da676be" name="SpiralTree_01-blue-03" />
+    <Channel id="aa6642d8-4172-43d2-ac60-d643c07e69f2" name="SpiralTree_01-blue-04" />
+    <Channel id="639d6dff-d807-4430-92fe-04a2c671836a" name="SpiralTree_01-blue-05" />
+    <Channel id="7d6969f6-1ea4-42af-8346-0d0674c8ef8b" name="SpiralTree_01-blue-06" />
+    <Channel id="4caffcb1-2204-4075-a5b2-c3ec9cf29c73" name="SpiralTree_01-blue-07" />
+    <Channel id="899076f3-9cd4-4d89-8a80-6476344d95c5" name="SpiralTree_01-blue-08" />
+    <Channel id="f32c557c-b021-4127-ab23-09d80481bade" name="SpiralTree_01-warm_white-01" />
+    <Channel id="c692568b-77a1-467b-9cd0-d31b8506ef62" name="SpiralTree_01-warm_white-02" />
+    <Channel id="a3039773-063e-4326-9625-63eb4feeb8d8" name="SpiralTree_01-warm_white-03" />
+    <Channel id="7a3d995c-6e63-4be8-821f-3646b47f3022" name="SpiralTree_01-warm_white-04" />
+    <Channel id="6eedc747-a468-449d-96af-ea01b5840b04" name="SpiralTree_01-warm_white-05" />
+    <Channel id="3f507cdc-e993-4939-aa5f-23bfc4a49268" name="SpiralTree_01-warm_white-06" />
+    <Channel id="fe3cc5ce-c5f9-4b1a-8a64-00cd105041a6" name="SpiralTree_01-warm_white-07" />
+    <Channel id="bc831ec8-1e42-4fe9-b060-822ef4ffefad" name="SpiralTree_01-warm_white-08" />
+    <Channel id="0b3e8db9-0987-4990-a7ef-a415f2685939" name="Icicles" />
+    <Channel id="009d1180-d62a-433b-bd1c-041f6c42a9c6" name="Roofline" />
+    <Channel id="d4413e9d-451e-4e9d-ac9c-76e54aa16bc7" name="Jasmine-Window-R-Wreath" />
+    <Channel id="5a1a41ce-0a0e-45cf-97a5-ca66970da1aa" name="LivingRoom-Window-Wreath" />
+    <Channel id="958075b9-4fbf-4e91-96f9-8b960d0fb743" name="LivingRoom-Window-Trim" />
+    <Channel id="32146198-1a5a-45dd-95b1-0f20b7671031" name="Garage" />
+    <Channel id="dabdb8c5-32bd-4508-aca3-21774b5694d3" name="Jasmine-Window-L-Wreath" />
+    <Channel id="e1ce2ac9-e5f1-4478-aacb-1b22f179f067" name="Jasmine-Window-R-Trim" />
+    <Channel id="645e89d5-cff9-482f-ab87-f53a8e28f2d4" name="Jasmine-Window-L-Trim" />
   </Channels>
   <Nodes>
     <Node name="Blitzen" id="66d36974-6c18-4338-bb9c-bbe75a211ef6">
@@ -306,6 +331,139 @@
             <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="1296a19f-6211-4a2b-9642-92e21ed19bfc" />
           </Properties>
         </Node>
+        <Node name="SpiralTree_01-blue-01" id="70547b16-0091-4eb8-8249-6b20be88ed23" channelId="7466bf8f-48e6-4c98-8d86-aecf7eb0e5cf">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="cae025b0-b9d1-4365-a4c7-e83788be616a" />
+          </Properties>
+        </Node>
+        <Node name="SpiralTree_01-blue-02" id="b4ad1bdd-eac8-429d-8dd4-d4918e63e81f" channelId="7aa74083-7ab3-4ad3-a41d-cd61cc840d41">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="59f80afb-a67c-4aca-9d6c-26a2990910b2" />
+          </Properties>
+        </Node>
+        <Node name="SpiralTree_01-blue-03" id="e5165078-86ba-415c-b064-36b833955777" channelId="c1880d10-73a4-46e1-bf4c-eb502da676be">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="7948bf49-763c-4b18-a030-a6b2f018ef1a" />
+          </Properties>
+        </Node>
+        <Node name="SpiralTree_01-blue-04" id="a07c8d64-df28-42df-bae2-0abfbb5f3e66" channelId="aa6642d8-4172-43d2-ac60-d643c07e69f2">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="635570b9-bee2-49ca-8dbe-915542d4bbe0" />
+          </Properties>
+        </Node>
+        <Node name="SpiralTree_01-blue-05" id="c830b8e5-b3b4-4ca5-b5c7-1e9dd36fdc3b" channelId="639d6dff-d807-4430-92fe-04a2c671836a">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="c8a4397b-920d-4196-bcc0-48a7c236e895" />
+          </Properties>
+        </Node>
+        <Node name="SpiralTree_01-blue-06" id="7b2854a9-5e48-4856-a528-01797f4804d8" channelId="7d6969f6-1ea4-42af-8346-0d0674c8ef8b">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="1cb61413-70f4-4983-8349-470d291c8024" />
+          </Properties>
+        </Node>
+        <Node name="SpiralTree_01-blue-07" id="bb522112-e6c1-48bc-a14e-40488a5becaf" channelId="4caffcb1-2204-4075-a5b2-c3ec9cf29c73">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="716f3595-ecee-4aaf-abe9-5ca4dd845f50" />
+          </Properties>
+        </Node>
+        <Node name="SpiralTree_01-blue-08" id="4d9fcafc-0b96-4245-b19f-4c4b2f69171a" channelId="899076f3-9cd4-4d89-8a80-6476344d95c5">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="c6733d2d-4a2e-4d40-97e6-d20eb49e89b4" />
+          </Properties>
+        </Node>
+        <Node name="SpiralTree_01-warm_white-01" id="d3b56229-5753-4906-ac0f-4f5cac2d0977" channelId="f32c557c-b021-4127-ab23-09d80481bade">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="27d2d9ae-0b1c-455c-87ee-04a2b41b13f4" />
+          </Properties>
+        </Node>
+        <Node name="SpiralTree_01-warm_white-02" id="31470864-270b-4819-a2a5-b5cda53e0d25" channelId="c692568b-77a1-467b-9cd0-d31b8506ef62">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="43c0f7d1-5da8-4295-b49a-fbe060162668" />
+          </Properties>
+        </Node>
+        <Node name="SpiralTree_01-warm_white-03" id="09d60300-622f-4bd9-8e87-6b99a97dc704" channelId="a3039773-063e-4326-9625-63eb4feeb8d8">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="7d2150f6-84f9-4024-9eea-0b4502f2b906" />
+          </Properties>
+        </Node>
+        <Node name="SpiralTree_01-warm_white-04" id="2115b081-790c-4ddf-995e-4a4a4af44e15" channelId="7a3d995c-6e63-4be8-821f-3646b47f3022">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="6c211dd8-766d-4616-8d6e-2a0cc40fc0ee" />
+          </Properties>
+        </Node>
+        <Node name="SpiralTree_01-warm_white-05" id="ec89f9b4-038b-48e6-b33c-3e5c692a8012" channelId="6eedc747-a468-449d-96af-ea01b5840b04">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="27196bb7-1ba3-408f-9b2e-d1ef044effdf" />
+          </Properties>
+        </Node>
+        <Node name="SpiralTree_01-warm_white-06" id="3e47c1cb-c4d7-4b88-b13d-0a582be94827" channelId="3f507cdc-e993-4939-aa5f-23bfc4a49268">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="98a4fb67-853a-4bfb-8e2f-2ae2554f6da2" />
+          </Properties>
+        </Node>
+        <Node name="SpiralTree_01-warm_white-07" id="20b8df6e-e4b5-4556-892a-5f0af9b368f4" channelId="fe3cc5ce-c5f9-4b1a-8a64-00cd105041a6">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0637429e-cb22-413c-9e32-3c54cef7678e" />
+          </Properties>
+        </Node>
+        <Node name="SpiralTree_01-warm_white-08" id="f7b55b3f-497c-40be-ab19-c898d96e36a9" channelId="bc831ec8-1e42-4fe9-b060-822ef4ffefad">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="b50b700a-0303-4434-b114-70976d161f0a" />
+          </Properties>
+        </Node>
+      </Node>
+    </Node>
+    <Node name="Cupid" id="6093cd07-e27b-4364-8442-2c38d07b2935">
+      <Node name="Roofline" id="e74961ff-339d-4ed0-b112-a0fff4150f89" channelId="009d1180-d62a-433b-bd1c-041f6c42a9c6">
+        <Properties>
+          <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0c9a9a63-0937-4579-815d-a82dd474ac9d" />
+        </Properties>
+      </Node>
+      <Node name="Icicles" id="d64a3545-fd8b-4498-8283-eaf13412060d" channelId="0b3e8db9-0987-4990-a7ef-a415f2685939">
+        <Properties>
+          <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="fba3d072-a829-4cef-bc71-af79fa72d80c" />
+        </Properties>
+      </Node>
+      <Node name="Jasmine-Window-L" id="7a28f356-1825-48c6-baf9-c22f587bc8ad">
+        <Node name="Jasmine-Window-L-Trim" id="b41265a2-e81e-4c0b-aa56-f9994aa2e2cd" channelId="645e89d5-cff9-482f-ab87-f53a8e28f2d4">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="498b69b0-c81e-49a9-8533-aa4405bed9de" />
+          </Properties>
+        </Node>
+        <Node name="Jasmine-Window-L-Wreath" id="6e2bb5a7-fdc8-48e1-9f63-4eb519630c38" channelId="dabdb8c5-32bd-4508-aca3-21774b5694d3">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="5eb32700-6857-4205-99d6-df243bc74097" />
+          </Properties>
+        </Node>
+      </Node>
+      <Node name="Jasmine-Window-R" id="73b58534-4a37-4fc6-adc2-7f55fb11334a">
+        <Node name="Jasmine-Window-R-Trim" id="aef6ffaa-3bd4-44ba-8723-004846295c04" channelId="e1ce2ac9-e5f1-4478-aacb-1b22f179f067">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="a516f82a-0eaa-412c-a977-9a06014fed5a" />
+          </Properties>
+        </Node>
+        <Node name="Jasmine-Window-R-Wreath" id="65845935-4ade-4224-92ff-e2f9f1fd8672" channelId="d4413e9d-451e-4e9d-ac9c-76e54aa16bc7">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="a9d97b78-e00b-4b84-9f07-117bc0b81829" />
+          </Properties>
+        </Node>
+      </Node>
+      <Node name="LivingRoom-Window" id="41dd941d-b5b1-4b20-a1b9-e3ac9cf2cc9b">
+        <Node name="LivingRoom-Window-Trim" id="cbb0fdaa-7ef2-4b8b-a7f3-50602d6b4099" channelId="958075b9-4fbf-4e91-96f9-8b960d0fb743">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="b3cf75a8-56eb-4e21-8454-81743c7403e0" />
+          </Properties>
+        </Node>
+        <Node name="LivingRoom-Window-Wreath" id="1f05300b-f4f4-4120-b122-747c3c251e18" channelId="5a1a41ce-0a0e-45cf-97a5-ca66970da1aa">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="3a14c06a-05f1-4631-9ae6-23eb66684b07" />
+          </Properties>
+        </Node>
+      </Node>
+      <Node name="Garage" id="ed518163-62bd-45c3-ad74-efe398ad010b" channelId="32146198-1a5a-45dd-95b1-0f20b7671031">
+        <Properties>
+          <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="7e48db57-cb7d-4cd0-924c-19147de18e01" />
+        </Properties>
       </Node>
     </Node>
   </Nodes>
@@ -362,6 +520,31 @@
     <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="9bed0ef3-8320-4ced-9aaa-e1cf034d3548" />
     <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="0375f345-53ed-4161-afbc-d293c7eb85ef" />
     <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="57704375-f9bd-4b68-b74a-6f6e3e3d87d2" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="5cff1aaa-59d6-43b2-9d63-d7755399b17d" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="97686913-4de0-4cdc-ae4d-5b6402750f6c" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="5a317b55-6f98-48c7-8f5c-7687d154f5a8" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="d40e82af-2e05-42dc-bb91-e08f031376e6" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="bd680b4f-4df5-4b11-96f2-0f61b3679b18" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="82ae49ce-ff02-4a0e-922f-4c3bdba4b5a6" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="07f17298-43b8-44e6-a2d7-aaee25fa9ea4" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="4a29bb9c-a89c-458b-b0d1-927e062774e4" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="9c77aea8-b753-4ced-a9d9-f029f5f42bed" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="d9431d52-14d5-403d-8fd4-800ee8a9f8c4" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="678dc32c-71a4-4f6f-a48c-57a75f5bc597" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="82e3c1b2-1791-4208-9df6-e4894c183fbd" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="7560b4f2-c9f0-4f95-900a-383e246e6e33" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="7fe785e6-253f-4a1a-a08e-a6de642dab49" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="45268953-6b47-4374-a0c0-82b4a222b53f" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="fcea0994-8873-403f-8b26-ae82028932d4" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="1d631ad3-c832-4dd4-9aa2-433da370f7f9" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="67668a03-b77b-4cd5-bf00-b59cafbb12ba" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="0001d631-c171-450b-a3e8-2c00ac651408" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="8198087e-b70c-4a1e-b13f-993a617f1f43" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="64f142ec-72d6-4efa-a044-bbc486f95e94" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="4f828e8f-5fd5-4cd4-87d5-41bd88875ee7" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="360a6b85-c150-4cbc-9a1c-5cbccaf2ae47" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="da810367-5bf2-4c2b-892a-9a9d18822992" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="8658bc73-9d9b-4942-884d-706f31bbf46d" />
   </Filters>
   <Patches>
     <Patch componentId="9cefea06-ac06-4a26-ae8b-1d45349b3fa2" sourceId="41a48fcd-1d4f-470f-b518-a69afd5e26fa" output="0" />
@@ -412,6 +595,31 @@
     <Patch componentId="af0c5617-8d36-4136-a0e1-2496a9f42fbb" sourceId="ed240148-c083-4ca2-889d-f2711c34d8ce" output="0" />
     <Patch componentId="fe557652-45b4-4796-8837-27567137ba44" sourceId="b0cd962b-e727-4e3b-86ee-f796d2a46991" output="0" />
     <Patch componentId="19b75f1b-9a15-4239-ac66-0ff0e719faf2" sourceId="c634495a-baac-460d-ab65-a9d05958f795" output="0" />
+    <Patch componentId="5cff1aaa-59d6-43b2-9d63-d7755399b17d" sourceId="7466bf8f-48e6-4c98-8d86-aecf7eb0e5cf" output="0" />
+    <Patch componentId="97686913-4de0-4cdc-ae4d-5b6402750f6c" sourceId="7aa74083-7ab3-4ad3-a41d-cd61cc840d41" output="0" />
+    <Patch componentId="5a317b55-6f98-48c7-8f5c-7687d154f5a8" sourceId="c1880d10-73a4-46e1-bf4c-eb502da676be" output="0" />
+    <Patch componentId="d40e82af-2e05-42dc-bb91-e08f031376e6" sourceId="aa6642d8-4172-43d2-ac60-d643c07e69f2" output="0" />
+    <Patch componentId="bd680b4f-4df5-4b11-96f2-0f61b3679b18" sourceId="639d6dff-d807-4430-92fe-04a2c671836a" output="0" />
+    <Patch componentId="82ae49ce-ff02-4a0e-922f-4c3bdba4b5a6" sourceId="7d6969f6-1ea4-42af-8346-0d0674c8ef8b" output="0" />
+    <Patch componentId="07f17298-43b8-44e6-a2d7-aaee25fa9ea4" sourceId="4caffcb1-2204-4075-a5b2-c3ec9cf29c73" output="0" />
+    <Patch componentId="4a29bb9c-a89c-458b-b0d1-927e062774e4" sourceId="899076f3-9cd4-4d89-8a80-6476344d95c5" output="0" />
+    <Patch componentId="9c77aea8-b753-4ced-a9d9-f029f5f42bed" sourceId="f32c557c-b021-4127-ab23-09d80481bade" output="0" />
+    <Patch componentId="d9431d52-14d5-403d-8fd4-800ee8a9f8c4" sourceId="c692568b-77a1-467b-9cd0-d31b8506ef62" output="0" />
+    <Patch componentId="678dc32c-71a4-4f6f-a48c-57a75f5bc597" sourceId="a3039773-063e-4326-9625-63eb4feeb8d8" output="0" />
+    <Patch componentId="82e3c1b2-1791-4208-9df6-e4894c183fbd" sourceId="7a3d995c-6e63-4be8-821f-3646b47f3022" output="0" />
+    <Patch componentId="7560b4f2-c9f0-4f95-900a-383e246e6e33" sourceId="6eedc747-a468-449d-96af-ea01b5840b04" output="0" />
+    <Patch componentId="7fe785e6-253f-4a1a-a08e-a6de642dab49" sourceId="3f507cdc-e993-4939-aa5f-23bfc4a49268" output="0" />
+    <Patch componentId="45268953-6b47-4374-a0c0-82b4a222b53f" sourceId="fe3cc5ce-c5f9-4b1a-8a64-00cd105041a6" output="0" />
+    <Patch componentId="fcea0994-8873-403f-8b26-ae82028932d4" sourceId="bc831ec8-1e42-4fe9-b060-822ef4ffefad" output="0" />
+    <Patch componentId="8658bc73-9d9b-4942-884d-706f31bbf46d" sourceId="0b3e8db9-0987-4990-a7ef-a415f2685939" output="0" />
+    <Patch componentId="da810367-5bf2-4c2b-892a-9a9d18822992" sourceId="009d1180-d62a-433b-bd1c-041f6c42a9c6" output="0" />
+    <Patch componentId="67668a03-b77b-4cd5-bf00-b59cafbb12ba" sourceId="d4413e9d-451e-4e9d-ac9c-76e54aa16bc7" output="0" />
+    <Patch componentId="0001d631-c171-450b-a3e8-2c00ac651408" sourceId="5a1a41ce-0a0e-45cf-97a5-ca66970da1aa" output="0" />
+    <Patch componentId="360a6b85-c150-4cbc-9a1c-5cbccaf2ae47" sourceId="32146198-1a5a-45dd-95b1-0f20b7671031" output="0" />
+    <Patch componentId="1d631ad3-c832-4dd4-9aa2-433da370f7f9" sourceId="dabdb8c5-32bd-4508-aca3-21774b5694d3" output="0" />
+    <Patch componentId="4f828e8f-5fd5-4cd4-87d5-41bd88875ee7" sourceId="958075b9-4fbf-4e91-96f9-8b960d0fb743" output="0" />
+    <Patch componentId="64f142ec-72d6-4efa-a044-bbc486f95e94" sourceId="e1ce2ac9-e5f1-4478-aacb-1b22f179f067" output="0" />
+    <Patch componentId="8198087e-b70c-4a1e-b13f-993a617f1f43" sourceId="645e89d5-cff9-482f-ab87-f53a8e28f2d4" output="0" />
   </Patches>
   <DisabledDevices />
 </SystemConfig>
