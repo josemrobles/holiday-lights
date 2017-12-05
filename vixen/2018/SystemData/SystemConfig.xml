@@ -77,7 +77,18 @@
     <Channel id="dabdb8c5-32bd-4508-aca3-21774b5694d3" name="Jasmine-Window-L-Wreath" />
     <Channel id="e1ce2ac9-e5f1-4478-aacb-1b22f179f067" name="Jasmine-Window-R-Trim" />
     <Channel id="645e89d5-cff9-482f-ab87-f53a8e28f2d4" name="Jasmine-Window-L-Trim" />
+    <Channel id="5ccd3a10-8c40-4817-a644-cefe04af2dae" name="Bushes" />
     <Channel id="ba5d768e-7520-4318-99c0-46cc4e824f1c" name="Garage Window" />
+    <Channel id="05fdd3a1-eb02-4030-bcac-fc3efc562a50" name="Dasher" />
+    <Channel id="f713dd9a-96a1-43b2-bd36-43fe0d7d56d9" name="Donner" />
+    <Channel id="2689d9d1-a5c9-4b5f-aebf-c565a4d7e7c8" name="Prancer" />
+    <Channel id="317b8542-59d5-4d20-bef6-80316cd8ce0a" name="Rudolph" />
+    <Channel id="ce584f08-8889-4290-8a0e-45c69aed848f" name="Vixen" />
+    <Channel id="3527198d-34a6-4e34-a264-40fb5a76cb97" name="Base" />
+    <Channel id="97fa2d12-6cbe-4cd7-82fa-13f6144d6949" name="Plants" />
+    <Channel id="202b3a13-78cb-41af-9178-f9d48bf43acd" name="Tall-Bush-R" />
+    <Channel id="c6843bc9-e6df-442f-b065-61a211dc6d7d" name="Tall-Bush-L" />
+    <Channel id="9b0eacb0-2e49-4478-bf1e-75db8a0fd911" name="Center-Bushes" />
   </Channels>
   <Nodes>
     <Node name="Blitzen" id="66d36974-6c18-4338-bb9c-bbe75a211ef6">
@@ -484,6 +495,45 @@
         </Node>
       </Node>
     </Node>
+    <Node name="Dancer" id="33de223f-0ef1-4a99-abaa-168b4ceb9b67">
+      <Node name="Foliage" id="9b2cec06-3604-47cc-8ea1-28c912b9f433">
+        <Node name="Planter" id="8faacdf1-80f4-4b97-8894-3d6a1c96368f">
+          <Node name="Base" id="aecbd8df-d7a4-48f0-ab56-d00c4101de45" channelId="3527198d-34a6-4e34-a264-40fb5a76cb97">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0b5648dd-1b54-46ae-ad77-b2605fa04b35" />
+            </Properties>
+          </Node>
+          <Node name="Bushes" id="8c0017f2-d6c0-418e-8c34-2478d70e07e5" channelId="5ccd3a10-8c40-4817-a644-cefe04af2dae">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="cdab8ee9-0b81-4e9d-beee-9c1b4ef94c52" />
+            </Properties>
+          </Node>
+          <Node name="Plants" id="9f66bb0a-7bea-424a-931b-b373aaf00f79" channelId="97fa2d12-6cbe-4cd7-82fa-13f6144d6949" />
+        </Node>
+        <Node name="Jasmine-Room" id="dfe075a8-e5f6-4315-a0da-0413f9d18469">
+          <Node name="Tall-Bush-L" id="c2be1d8a-b37a-47b1-a98a-9f3d0c85f94e" channelId="c6843bc9-e6df-442f-b065-61a211dc6d7d">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="d5f71b92-7a31-42db-8df9-9e72b64d1663" />
+            </Properties>
+          </Node>
+          <Node name="Tall-Bush-R" id="2dae2a1c-c004-42f6-80c1-31adb07ff46d" channelId="202b3a13-78cb-41af-9178-f9d48bf43acd">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="1fd2dcd4-d4bb-44c7-aeb9-357d8a17d59b" />
+            </Properties>
+          </Node>
+          <Node name="Center-Bushes" id="a430a13f-f769-4ffd-ad73-64546de52da0" channelId="9b0eacb0-2e49-4478-bf1e-75db8a0fd911">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="ad75f663-26b6-4384-9bdf-618767d206dc" />
+            </Properties>
+          </Node>
+        </Node>
+      </Node>
+    </Node>
+    <Node name="Dasher" id="8507abf6-303d-42b9-a358-69c849b629e4" channelId="05fdd3a1-eb02-4030-bcac-fc3efc562a50" />
+    <Node name="Donner" id="73a6ccd1-a076-4375-ba1b-f66252b6bf83" channelId="f713dd9a-96a1-43b2-bd36-43fe0d7d56d9" />
+    <Node name="Prancer" id="ac323b63-feab-42dc-9d06-5f761d70a6c6" channelId="2689d9d1-a5c9-4b5f-aebf-c565a4d7e7c8" />
+    <Node name="Rudolph" id="c4389ea2-4dcc-4e74-be96-1eb9f9829779" channelId="317b8542-59d5-4d20-bef6-80316cd8ce0a" />
+    <Node name="Vixen" id="5b881510-857c-4552-8ec2-4f0a19a77f6a" channelId="ce584f08-8889-4290-8a0e-45c69aed848f" />
   </Nodes>
   <Controllers />
   <ControllerLinks />
@@ -564,6 +614,11 @@
     <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="da810367-5bf2-4c2b-892a-9a9d18822992" />
     <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="8658bc73-9d9b-4942-884d-706f31bbf46d" />
     <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="4605c6d2-e775-4c7f-9201-2d8fedd6695b" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="920cc321-e94a-41d7-8a2a-7cac70576120" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="37483a4f-836f-4bcb-8b36-84962ebaa397" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="530d85d7-2a43-438b-8ffa-1c52d65b7893" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="6108c8aa-777d-417c-ab02-5eb28737eb34" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="c1cc64c7-afa2-46dd-9e2e-cc6990ac07c8" />
   </Filters>
   <Patches>
     <Patch componentId="9cefea06-ac06-4a26-ae8b-1d45349b3fa2" sourceId="41a48fcd-1d4f-470f-b518-a69afd5e26fa" output="0" />
@@ -639,7 +694,12 @@
     <Patch componentId="1d631ad3-c832-4dd4-9aa2-433da370f7f9" sourceId="dabdb8c5-32bd-4508-aca3-21774b5694d3" output="0" />
     <Patch componentId="64f142ec-72d6-4efa-a044-bbc486f95e94" sourceId="e1ce2ac9-e5f1-4478-aacb-1b22f179f067" output="0" />
     <Patch componentId="8198087e-b70c-4a1e-b13f-993a617f1f43" sourceId="645e89d5-cff9-482f-ab87-f53a8e28f2d4" output="0" />
+    <Patch componentId="37483a4f-836f-4bcb-8b36-84962ebaa397" sourceId="5ccd3a10-8c40-4817-a644-cefe04af2dae" output="0" />
     <Patch componentId="4605c6d2-e775-4c7f-9201-2d8fedd6695b" sourceId="ba5d768e-7520-4318-99c0-46cc4e824f1c" output="0" />
+    <Patch componentId="920cc321-e94a-41d7-8a2a-7cac70576120" sourceId="3527198d-34a6-4e34-a264-40fb5a76cb97" output="0" />
+    <Patch componentId="6108c8aa-777d-417c-ab02-5eb28737eb34" sourceId="202b3a13-78cb-41af-9178-f9d48bf43acd" output="0" />
+    <Patch componentId="530d85d7-2a43-438b-8ffa-1c52d65b7893" sourceId="c6843bc9-e6df-442f-b065-61a211dc6d7d" output="0" />
+    <Patch componentId="c1cc64c7-afa2-46dd-9e2e-cc6990ac07c8" sourceId="9b0eacb0-2e49-4478-bf1e-75db8a0fd911" output="0" />
   </Patches>
   <DisabledDevices />
 </SystemConfig>
