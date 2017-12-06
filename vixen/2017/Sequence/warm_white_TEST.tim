@@ -1,0 +1,743 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TimedSequenceData version="4" xmlns:a="http://www.w3.org/2001/XMLSchema" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Sequence.Timed">
+  <ModuleInstanceId xmlns="">a3a9a7d2-2c29-4d14-b2c6-2aeca7274b7b</ModuleInstanceId>
+  <ModuleTypeId xmlns="">296bdba2-9bf3-4bff-a9f2-13efac5c8ecb</ModuleTypeId>
+  <Length xmlns="">PT1M</Length>
+  <SequenceLayers xmlns:d1p1="http://schemas.datacontract.org/2004/07/Vixen.Sys.LayerMixing" xmlns="">
+    <d1p1:Layers xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d2p1:anyType i:type="d1p1:DefaultLayer">
+        <d1p1:Id>597964bb-5415-4c30-8a1b-5864f2f832d3</d1p1:Id>
+        <d1p1:LayerLevel>0</d1p1:LayerLevel>
+        <d1p1:LayerName>Default</d1p1:LayerName>
+        <d1p1:Type>Default</d1p1:Type>
+      </d2p1:anyType>
+    </d1p1:Layers>
+    <d1p1:_effectLayerMap xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  </SequenceLayers>
+  <Version xmlns="">0</Version>
+  <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>e1071913-1e32-4826-ab48-653c4199ca86</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4292467102</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>0d842d0f-2f2e-4248-a4d6-6ba3c8ec9448</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4292467125</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>64a9d5b6-4423-42bf-9f83-1f535b5978c4</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4292467125</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>bf6fd892-f597-4b00-bd25-e2e96faef060</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4292467102</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>784e6213-740a-41ac-86e5-2d89e00f522c</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4292467125</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>3a71a977-285a-419e-b506-de71d24c8c97</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4292467059</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>21d7ccd6-e4af-4b84-8adf-4f33c7c16eba</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4292467125</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>6efc319a-3540-4699-a777-c81692c7e434</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4292467125</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>f3c563c9-aef7-4068-a9c6-5a3c20959127</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4292467102</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>06991915-9465-411d-8218-a9e20856f60a</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4292467081</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>4930b626-29d7-443b-97f2-6cab98daf4d4</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4292467102</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>b373d09d-bd2b-4b66-aca8-ce6aa58dec66</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4292467125</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>a9bfdb04-bd72-4637-9845-c7e7f9add89e</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>0.70980392156862748</d3p1:_b>
+        <d3p1:_g>0.85098039215686272</d3p1:_g>
+        <d3p1:_r>0.85098039215686272</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>6b1502b5-cd8f-4ad3-bf8a-d7df42264b81</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>0.70980392156862748</d3p1:_b>
+        <d3p1:_g>0.85098039215686272</d3p1:_g>
+        <d3p1:_r>0.85098039215686272</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>9fdcca06-2b20-4eb6-8c94-4ff188e6e8ea</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>0.70980392156862748</d3p1:_b>
+        <d3p1:_g>0.85098039215686272</d3p1:_g>
+        <d3p1:_r>0.85098039215686272</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>de5f8bcd-e3f8-442c-90c0-40d9b05a2340</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>0.70980392156862748</d3p1:_b>
+        <d3p1:_g>0.85098039215686272</d3p1:_g>
+        <d3p1:_r>0.85098039215686272</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>abe7a5c4-4323-491f-a34e-fdc5920103e3</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4292467125</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>06a87682-7460-4d19-8dad-9f9f8c3f8734</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4292467125</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>567b733a-2a73-460d-a147-a4c7e3208948</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4292467125</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>faf10af8-2e8a-46fe-af90-e10f6295bfaf</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4292467125</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
+  </_dataModels>
+  <_effectNodeSurrogates xmlns="">
+    <EffectNodeSurrogate>
+      <InstanceId>06a87682-7460-4d19-8dad-9f9f8c3f8734</InstanceId>
+      <StartTime>PT0.95S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>e67fa589-32ba-4209-b294-fb20d77a3924</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT59.01S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>abe7a5c4-4323-491f-a34e-fdc5920103e3</InstanceId>
+      <StartTime>PT0.98S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>9c7ac0a0-590d-4e47-a9c4-5b0f565bcc56</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT59.01S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>567b733a-2a73-460d-a147-a4c7e3208948</InstanceId>
+      <StartTime>PT0.99S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>0db97786-7094-459b-9a3d-95a9092f1e74</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT59.01S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>06991915-9465-411d-8218-a9e20856f60a</InstanceId>
+      <StartTime>PT0.99S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>8aab17bf-4740-4e48-a4a3-e5d59f0fde57</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT59.01S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>e1071913-1e32-4826-ab48-653c4199ca86</InstanceId>
+      <StartTime>PT0.99S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>8938d9e0-5017-460a-9a2d-bb14f07b6078</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT59.01S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>b373d09d-bd2b-4b66-aca8-ce6aa58dec66</InstanceId>
+      <StartTime>PT0.99S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>8aab17bf-4740-4e48-a4a3-e5d59f0fde57</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT59.01S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>f3c563c9-aef7-4068-a9c6-5a3c20959127</InstanceId>
+      <StartTime>PT0.99S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>99663b2a-ba48-4615-85f9-06429c14ae5d</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT59.01S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>4930b626-29d7-443b-97f2-6cab98daf4d4</InstanceId>
+      <StartTime>PT0.99S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>8aab17bf-4740-4e48-a4a3-e5d59f0fde57</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT59.01S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>21d7ccd6-e4af-4b84-8adf-4f33c7c16eba</InstanceId>
+      <StartTime>PT0.99S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>8938d9e0-5017-460a-9a2d-bb14f07b6078</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT59.01S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>bf6fd892-f597-4b00-bd25-e2e96faef060</InstanceId>
+      <StartTime>PT0.99S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>cfb4d817-9f62-4d97-b359-a5e4ca3df1a4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT59.01S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>6efc319a-3540-4699-a777-c81692c7e434</InstanceId>
+      <StartTime>PT0.99S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>cfb4d817-9f62-4d97-b359-a5e4ca3df1a4</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT59.01S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>faf10af8-2e8a-46fe-af90-e10f6295bfaf</InstanceId>
+      <StartTime>PT0.99S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>df012ad2-1b30-4a35-a0b2-d2216b66fbd5</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT59.01S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>3a71a977-285a-419e-b506-de71d24c8c97</InstanceId>
+      <StartTime>PT0.99S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>8aab17bf-4740-4e48-a4a3-e5d59f0fde57</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT59.01S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>784e6213-740a-41ac-86e5-2d89e00f522c</InstanceId>
+      <StartTime>PT0.99S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>99663b2a-ba48-4615-85f9-06429c14ae5d</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT59.01S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>64a9d5b6-4423-42bf-9f83-1f535b5978c4</InstanceId>
+      <StartTime>PT10.03S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>6a9b5ece-0754-4705-82c3-5c0da3364020</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT49.97S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>0d842d0f-2f2e-4248-a4d6-6ba3c8ec9448</InstanceId>
+      <StartTime>PT10.03S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>f95254f9-a93a-4536-8b79-b22a96629580</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT49.97S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>9fdcca06-2b20-4eb6-8c94-4ff188e6e8ea</InstanceId>
+      <StartTime>PT19.98S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>f6d4b341-bfcc-4ead-839f-248cdfa07de8</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT40.02S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>a9bfdb04-bd72-4637-9845-c7e7f9add89e</InstanceId>
+      <StartTime>PT19.98S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>486caace-2490-41fd-bfee-7e4c6c59eb52</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT40.02S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>6b1502b5-cd8f-4ad3-bf8a-d7df42264b81</InstanceId>
+      <StartTime>PT19.98S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>b73b4c93-8ba9-481d-96e4-10ea9c454392</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT40.02S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>de5f8bcd-e3f8-442c-90c0-40d9b05a2340</InstanceId>
+      <StartTime>PT19.98S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>65a4a43e-7855-468d-a890-350cf1d24e6e</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT40.02S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+  </_effectNodeSurrogates>
+  <_filterNodeSurrogates xmlns="" />
+  <_layerMixingFilterDataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="" />
+  <_layerMixingFilterSurrogates xmlns="" />
+  <_mediaSurrogates xmlns="" />
+  <_selectedTimingProviderSurrogate xmlns="">
+    <ProviderType i:nil="true" />
+    <SourceName i:nil="true" />
+  </_selectedTimingProviderSurrogate>
+  <DefaultPlaybackEndTime i:nil="true" />
+  <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
+  <DefaultRowHeight>32</DefaultRowHeight>
+  <DefaultSplitterDistance>0</DefaultSplitterDistance>
+  <MarkCollections />
+  <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>-1581668525</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>true</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>-1855475629</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>false</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>-281497517</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>false</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>-2237812653</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>false</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>-663834541</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>42</RowHeight>
+        <Visible>false</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>-2221027032</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>false</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>-2221027033</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>false</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>-2221027034</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>false</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>-2221027027</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>false</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>-1126836000</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>true</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>25745124</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>true</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>554099168</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>true</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>2128077280</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>true</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>171762144</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>true</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>1745740256</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>true</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>522639080</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>true</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>286319076</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>true</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>185131492</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>true</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>1759109604</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>true</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+  </RowSettings>
+  <TimePerPixel>-P10675199DT2H48M5.4775808S</TimePerPixel>
+  <VisibleTimeStart>PT18.863S</VisibleTimeStart>
+</TimedSequenceData>

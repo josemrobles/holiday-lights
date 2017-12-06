@@ -1,0 +1,48 @@
+11/25/2017 07:30:18 [Vixen.Sys.VixenSystem] Vixen System starting up... 
+11/25/2017 07:30:19 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+11/25/2017 07:30:19 [VixenModules.Output.Renard.Module] Starting retry counter for com port access. Retry count is 1 
+11/25/2017 07:30:19 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+11/25/2017 07:30:19 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
+11/25/2017 07:32:19 [VixenModules.Output.Renard.Module] Attempting to start controller. 
+11/25/2017 07:32:19 [VixenModules.Output.Renard.Module] Starting retry counter for com port access. Retry count is 2 
+11/25/2017 07:34:19 [VixenModules.Output.Renard.Module] Attempting to start controller. 
+11/25/2017 07:34:19 [VixenModules.Output.Renard.Module] Starting retry counter for com port access. Retry count is 3 
+11/25/2017 07:36:19 [VixenModules.Output.Renard.Module] Attempting to start controller. 
+11/25/2017 07:36:19 [VixenModules.Output.Renard.Module] Retry counter for com port access has exceeded max tries.  Controller has been stopped. 
+11/25/2017 07:53:16 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+11/25/2017 07:53:16 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+11/25/2017 07:53:16 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+11/25/2017 07:53:16 [VixenModules.Output.Renard.Module] Starting retry counter for com port access. Retry count is 1 
+11/25/2017 07:53:16 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+11/25/2017 07:55:16 [VixenModules.Output.Renard.Module] Attempting to start controller. 
+11/25/2017 07:55:16 [VixenModules.Output.Renard.Module] Starting retry counter for com port access. Retry count is 2 
+11/25/2017 07:57:16 [VixenModules.Output.Renard.Module] Attempting to start controller. 
+11/25/2017 07:57:16 [VixenModules.Output.Renard.Module] Starting retry counter for com port access. Retry count is 3 
+11/25/2017 07:59:16 [VixenModules.Output.Renard.Module] Attempting to start controller. 
+11/25/2017 07:59:16 [VixenModules.Output.Renard.Module] Retry counter for com port access has exceeded max tries.  Controller has been stopped. 
+11/25/2017 08:53:46 [Vixen.Sys.VixenSystem] Vixen System stopping... 
+11/25/2017 08:53:46 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+11/25/2017 08:53:46 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+11/25/2017 08:53:46 [Vixen.Sys.VixenSystem] Vixen System successfully stopped. 
+11/25/2017 09:20:29 [Vixen.Sys.VixenSystem] Vixen System starting up... 
+11/25/2017 09:20:30 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+11/25/2017 09:20:30 [VixenModules.Output.Renard.Module] Starting retry counter for com port access. Retry count is 1 
+11/25/2017 09:20:30 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+11/25/2017 09:20:30 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
+11/25/2017 09:22:30 [VixenModules.Output.Renard.Module] Attempting to start controller. 
+11/25/2017 09:22:30 [VixenModules.Output.Renard.Module] Starting retry counter for com port access. Retry count is 2 
+11/25/2017 09:24:30 [VixenModules.Output.Renard.Module] Attempting to start controller. 
+11/25/2017 09:24:30 [VixenModules.Output.Renard.Module] Starting retry counter for com port access. Retry count is 3 
+11/25/2017 09:26:30 [VixenModules.Output.Renard.Module] Attempting to start controller. 
+11/25/2017 09:26:30 [VixenModules.Output.Renard.Module] Retry counter for com port access has exceeded max tries.  Controller has been stopped. 
+11/25/2017 16:06:07 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+11/25/2017 16:06:07 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+11/25/2017 16:06:07 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+11/25/2017 16:06:07 [VixenModules.Output.Renard.Module] Starting retry counter for com port access. Retry count is 1 
+11/25/2017 16:06:07 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+11/25/2017 16:08:08 [VixenModules.Output.Renard.Module] Attempting to start controller. 
+11/25/2017 16:08:08 [VixenModules.Output.Renard.Module] Starting retry counter for com port access. Retry count is 2 
+11/25/2017 16:10:08 [VixenModules.Output.Renard.Module] Attempting to start controller. 
+11/25/2017 16:10:08 [VixenModules.Output.Renard.Module] Starting retry counter for com port access. Retry count is 3 
+11/25/2017 16:12:08 [VixenModules.Output.Renard.Module] Attempting to start controller. 
+11/25/2017 16:12:08 [VixenModules.Output.Renard.Module] Retry counter for com port access has exceeded max tries.  Controller has been stopped. 

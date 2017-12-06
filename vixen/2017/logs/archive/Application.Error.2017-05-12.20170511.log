@@ -1,0 +1,80 @@
+05/08/2017 20:03:30 [VixenModules.Effect.Candle.CandleModule] Error generating Candle intents System.NullReferenceException: Object reference not set to an instance of an object.
+   at VixenModules.Effect.Candle.CandleModule._RenderCandleOnElements(List`1 elements)    at VixenModules.Effect.Candle.CandleModule._RenderCandleOnElements(List`1 elements)
+05/08/2017 20:03:30 [Vixen.Module.Effect.EffectModuleInstanceBase] Error rendering Candle Flicker System.NullReferenceException: Object reference not set to an instance of an object.
+   at VixenModules.Effect.Candle.CandleModule._RenderCandleOnElements(List`1 elements)
+   at VixenModules.Effect.Candle.CandleModule._PreRender(CancellationTokenSource cancellationToken)
+   at Vixen.Module.Effect.EffectModuleInstanceBase.Render()    at VixenModules.Effect.Candle.CandleModule._RenderCandleOnElements(List`1 elements)
+   at VixenModules.Effect.Candle.CandleModule._PreRender(CancellationTokenSource cancellationToken)
+   at Vixen.Module.Effect.EffectModuleInstanceBase.Render()
+05/08/2017 20:03:33 [VixenModules.Effect.Candle.CandleModule] Error generating Candle intents System.NullReferenceException: Object reference not set to an instance of an object.
+   at VixenModules.Effect.Candle.CandleModule._RenderCandleOnElements(List`1 elements)    at VixenModules.Effect.Candle.CandleModule._RenderCandleOnElements(List`1 elements)
+05/08/2017 20:03:33 [Vixen.Module.Effect.EffectModuleInstanceBase] Error rendering Candle Flicker System.NullReferenceException: Object reference not set to an instance of an object.
+   at VixenModules.Effect.Candle.CandleModule._RenderCandleOnElements(List`1 elements)
+   at VixenModules.Effect.Candle.CandleModule._PreRender(CancellationTokenSource cancellationToken)
+   at Vixen.Module.Effect.EffectModuleInstanceBase.Render()    at VixenModules.Effect.Candle.CandleModule._RenderCandleOnElements(List`1 elements)
+   at VixenModules.Effect.Candle.CandleModule._PreRender(CancellationTokenSource cancellationToken)
+   at Vixen.Module.Effect.EffectModuleInstanceBase.Render()
+05/08/2017 20:08:05 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Ren32_Palms error System.IO.IOException: A device attached to the system is not functioning.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+05/08/2017 20:08:05 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Ren32_Palms experienced an error during execution and was shutdown. 
+05/08/2017 20:23:55 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Ren32_Palms error System.IO.IOException: A device attached to the system is not functioning.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.get_BytesToWrite()
+   at System.IO.Ports.SerialPort.get_BytesToWrite()
+   at VixenModules.Output.Renard.Module._WaitForBufferRoom(Int32 bytesToWrite)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.get_BytesToWrite()
+   at System.IO.Ports.SerialPort.get_BytesToWrite()
+   at VixenModules.Output.Renard.Module._WaitForBufferRoom(Int32 bytesToWrite)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+05/08/2017 20:23:55 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Ren32_Palms experienced an error during execution and was shutdown. 
+05/08/2017 20:47:50 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Ren32_Palms error System.IO.IOException: A device attached to the system is not functioning.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.get_BytesToWrite()
+   at System.IO.Ports.SerialPort.get_BytesToWrite()
+   at VixenModules.Output.Renard.Module._WaitForBufferRoom(Int32 bytesToWrite)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.get_BytesToWrite()
+   at System.IO.Ports.SerialPort.get_BytesToWrite()
+   at VixenModules.Output.Renard.Module._WaitForBufferRoom(Int32 bytesToWrite)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+05/08/2017 20:47:50 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Ren32_Palms experienced an error during execution and was shutdown. 
+05/08/2017 20:49:40 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Ren32_Palms error System.IO.IOException: A device attached to the system is not functioning.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.get_BytesToWrite()
+   at System.IO.Ports.SerialPort.get_BytesToWrite()
+   at VixenModules.Output.Renard.Module._WaitForBufferRoom(Int32 bytesToWrite)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.get_BytesToWrite()
+   at System.IO.Ports.SerialPort.get_BytesToWrite()
+   at VixenModules.Output.Renard.Module._WaitForBufferRoom(Int32 bytesToWrite)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+05/08/2017 20:49:40 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Ren32_Palms experienced an error during execution and was shutdown. 

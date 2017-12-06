@@ -1,0 +1,153 @@
+11/21/2017 21:09:43 [Vixen.Sys.Managers.HardwareUpdateThread] Controller blitzen_ren32 error System.IO.IOException: A device attached to the system is not functioning.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.get_BytesToWrite()
+   at System.IO.Ports.SerialPort.get_BytesToWrite()
+   at VixenModules.Output.Renard.Module._WaitForBufferRoom(Int32 bytesToWrite)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.get_BytesToWrite()
+   at System.IO.Ports.SerialPort.get_BytesToWrite()
+   at VixenModules.Output.Renard.Module._WaitForBufferRoom(Int32 bytesToWrite)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+11/21/2017 21:09:43 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device blitzen_ren32 experienced an error during execution and was shutdown. 
+11/21/2017 21:15:48 [Vixen.Sys.Managers.HardwareUpdateThread] Controller blitzen_ren16 error System.IO.IOException: A device attached to the system is not functioning.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.get_BytesToWrite()
+   at System.IO.Ports.SerialPort.get_BytesToWrite()
+   at VixenModules.Output.Renard.Module._WaitForBufferRoom(Int32 bytesToWrite)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.get_BytesToWrite()
+   at System.IO.Ports.SerialPort.get_BytesToWrite()
+   at VixenModules.Output.Renard.Module._WaitForBufferRoom(Int32 bytesToWrite)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+11/21/2017 21:15:48 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device blitzen_ren16 experienced an error during execution and was shutdown. 
+11/21/2017 21:40:27 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:40:27 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:42:01 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:43:16 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:43:23 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:44:01 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:45:09 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:45:16 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:45:23 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:46:01 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:46:53 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:47:15 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:48:14 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:50:14 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:51:06 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:52:34 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:54:34 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:56:34 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:58:27 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 21:58:33 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 22:00:27 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 22:00:33 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 22:02:27 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 22:02:33 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 22:03:38 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Renard error System.IO.IOException: The I/O operation has been aborted because of either a thread exit or an application request.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+11/21/2017 22:03:38 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Renard experienced an error during execution and was shutdown. 
+11/21/2017 22:06:06 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Renard error System.IO.IOException: The I/O operation has been aborted because of either a thread exit or an application request.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+11/21/2017 22:06:06 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Renard experienced an error during execution and was shutdown. 
+11/21/2017 22:06:13 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Renard error System.IO.IOException: The I/O operation has been aborted because of either a thread exit or an application request.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+11/21/2017 22:06:13 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Renard experienced an error during execution and was shutdown. 
+11/21/2017 22:43:15 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Renard error System.IO.IOException: The I/O operation has been aborted because of either a thread exit or an application request.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+11/21/2017 22:43:15 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Renard experienced an error during execution and was shutdown. 
+11/21/2017 22:49:17 [VixenModules.Output.Renard.Module] COM3 is in use.  Starting controller retry timer for f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c 
+11/21/2017 23:06:14 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Renard error System.IO.IOException: The I/O operation has been aborted because of either a thread exit or an application request.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+11/21/2017 23:06:14 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Renard experienced an error during execution and was shutdown. 
+11/21/2017 23:09:41 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Renard error System.IO.IOException: The I/O operation has been aborted because of either a thread exit or an application request.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.Renard.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+11/21/2017 23:09:41 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Renard experienced an error during execution and was shutdown. 
