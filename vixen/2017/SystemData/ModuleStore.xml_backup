@@ -12829,7 +12829,7 @@
         <ModuleInstanceId xmlns="">31bde1d7-ce3e-4500-aab0-0fd93e89cc25</ModuleInstanceId>
         <ModuleTypeId xmlns="">bff34727-6b88-4f87-82b7-68424498c725</ModuleTypeId>
         <ColorSetName>wreath</ColorSetName>
-        <ElementColorType>MultipleDiscreteColors</ElementColorType>
+        <ElementColorType>SingleColor</ElementColorType>
         <SingleColor xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
           <a:knownColor>0</a:knownColor>
           <a:name i:nil="true" />

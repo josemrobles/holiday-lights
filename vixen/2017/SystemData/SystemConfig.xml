@@ -111,7 +111,6 @@
           <Node name="Jasmine_Window_Left_Wreath" id="d2c065ef-ed81-40b8-b467-570f5261a96b" channelId="ee54b42c-7e29-4562-bf1a-30dee3e79304">
             <Properties>
               <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="59621a91-1b07-4ad8-82c9-3808b9fca60a" />
-              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="cabdaf5d-54e3-4128-b377-f635c8ebe0a8" />
             </Properties>
           </Node>
         </Node>
@@ -124,7 +123,6 @@
           <Node name="Jasmine_Window_Right_Wreath" id="513a02e7-8c46-4de1-82f4-bfccb8844407" channelId="4954c553-ff68-40c0-889d-99991f8ef578">
             <Properties>
               <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="31bde1d7-ce3e-4500-aab0-0fd93e89cc25" />
-              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="62bb2110-4b7f-417c-9ae2-df4f6e02095d" />
             </Properties>
           </Node>
         </Node>
