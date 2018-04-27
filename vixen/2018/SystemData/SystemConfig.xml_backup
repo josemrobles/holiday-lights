@@ -93,156 +93,68 @@
   </Channels>
   <Nodes>
     <Node name="Blitzen" id="66d36974-6c18-4338-bb9c-bbe75a211ef6">
-      <Node name="Palms" id="9c491354-cd61-4cfb-bb36-3569d232ab70">
-        <Node name="Palm_01" id="afa703dd-d881-4827-831f-432ab7a56973">
-          <Node name="Palm_01-top" id="4b276103-3157-4164-8d7c-93a0fedf2eb7" channelId="41a48fcd-1d4f-470f-b518-a69afd5e26fa">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="72f3a511-5651-4891-bc14-66284bfbda9e" />
-            </Properties>
+      <Node name="House" id="09b77482-98dd-4189-a7d7-0a199836c366">
+        <Node name="Windows&amp;Garage" id="d8dbb6e9-f3e2-435e-a4dc-43b308230439">
+          <Node name="Jasmine-Window-L" id="7a28f356-1825-48c6-baf9-c22f587bc8ad">
+            <Node name="Jasmine-Window-L-Trim" id="b41265a2-e81e-4c0b-aa56-f9994aa2e2cd" channelId="645e89d5-cff9-482f-ab87-f53a8e28f2d4">
+              <Properties>
+                <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="498b69b0-c81e-49a9-8533-aa4405bed9de" />
+              </Properties>
+            </Node>
+            <Node name="Jasmine-Window-L-Wreath" id="6e2bb5a7-fdc8-48e1-9f63-4eb519630c38" channelId="dabdb8c5-32bd-4508-aca3-21774b5694d3">
+              <Properties>
+                <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="5eb32700-6857-4205-99d6-df243bc74097" />
+              </Properties>
+            </Node>
           </Node>
-          <Node name="Palm_01-middle" id="a8ca96da-e210-49ae-ad3c-619efa7881f2" channelId="0d3dc03a-363e-495f-a6a2-26e08df101ba">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="7fc0de8c-58a2-4d90-98e0-b41c44d5779c" />
-            </Properties>
+          <Node name="Jasmine-Window-R" id="73b58534-4a37-4fc6-adc2-7f55fb11334a">
+            <Node name="Jasmine-Window-R-Trim" id="aef6ffaa-3bd4-44ba-8723-004846295c04" channelId="e1ce2ac9-e5f1-4478-aacb-1b22f179f067">
+              <Properties>
+                <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="a516f82a-0eaa-412c-a977-9a06014fed5a" />
+              </Properties>
+            </Node>
+            <Node name="Jasmine-Window-R-Wreath" id="65845935-4ade-4224-92ff-e2f9f1fd8672" channelId="d4413e9d-451e-4e9d-ac9c-76e54aa16bc7">
+              <Properties>
+                <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="a9d97b78-e00b-4b84-9f07-117bc0b81829" />
+              </Properties>
+            </Node>
           </Node>
-          <Node name="Palm_01-bottom" id="21e7ccea-523c-402a-8651-456ac6e1545a" channelId="fd041170-683a-444a-a43b-3ab13bbc035b">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0a40e772-4513-4b49-9852-22052445b4e9" />
-            </Properties>
+          <Node name="LivingRoom-Window" id="41dd941d-b5b1-4b20-a1b9-e3ac9cf2cc9b">
+            <Node name="LivingRoom-Window-Trim" id="cbb0fdaa-7ef2-4b8b-a7f3-50602d6b4099" channelId="958075b9-4fbf-4e91-96f9-8b960d0fb743">
+              <Properties>
+                <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="b3cf75a8-56eb-4e21-8454-81743c7403e0" />
+              </Properties>
+            </Node>
+            <Node name="LivingRoom-Window-Wreath" id="1f05300b-f4f4-4120-b122-747c3c251e18" channelId="5a1a41ce-0a0e-45cf-97a5-ca66970da1aa">
+              <Properties>
+                <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="3a14c06a-05f1-4631-9ae6-23eb66684b07" />
+              </Properties>
+            </Node>
           </Node>
-          <Node name="Palm_01-cool_white" id="ace7c291-d09d-4186-88a8-510ffcc00bf3" channelId="ac9baaa1-2ca1-4689-97ec-25ecae068cf1">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="870b9bb6-ed8d-4412-8a61-fefe9cfee900" />
-            </Properties>
-          </Node>
-          <Node name="Palm_01-multi_color" id="eeed6c39-bacd-4904-ba04-5ac1e8c618af" channelId="0c4d1212-cd25-4210-b38e-c331882834c3">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="8daff9ec-5759-413e-984d-700af622ca46" />
-            </Properties>
-          </Node>
-          <Node name="Palm_01-purple" id="dd6286e6-e8ca-479a-9b2b-fd611e7b8465" channelId="55e26df7-1e7e-432d-aa3a-3ce5e8d01e84">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="ca54efea-c8a2-4a1d-b38d-35c144a57d5b" />
-            </Properties>
-          </Node>
-        </Node>
-        <Node name="Palm_02" id="2482014d-a433-4c6c-befa-df2c23505d4f">
-          <Node name="Palm_02-top " id="c44deaa0-ed34-4992-a1b4-451eeed41b59" channelId="d68fa778-3cce-4a63-aa9a-aedb0950efa5">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="f4598be3-d79d-4cd9-9ae6-82e89c2ae78b" />
-            </Properties>
-          </Node>
-          <Node name="Palm_02-middle " id="7021b55f-5853-4be3-a7af-df7b53d5b3cb" channelId="8c3d7743-1e83-4a4c-b14e-ac32d4689035">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="7ea372c9-03d9-459a-b7d9-80dba88b974f" />
-            </Properties>
-          </Node>
-          <Node name="Palm_02-bottom " id="2e28e83a-82a0-4a0d-829f-09d48a7c661f" channelId="b59f25c7-47d8-4a59-b452-2fae838c2238">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="08fbd6b9-7413-4ded-827b-96571b341a2e" />
-            </Properties>
-          </Node>
-          <Node name="Palm_02-cool_white" id="46b368f2-f78f-4bc1-88bb-6f2b45cfc582" channelId="d06a22ef-1dea-4abb-9a2e-12244810a510">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="59718d67-1643-4834-9e88-26127b3bdb80" />
-            </Properties>
-          </Node>
-          <Node name="Palm_02-multi_color" id="76bda25e-1ded-4075-9370-2f5a1ed944ee" channelId="df8d54f5-c925-4719-aace-8791e8819dbf">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="63a6310e-3451-4d3a-a686-0cd2e7e63d2d" />
-            </Properties>
-          </Node>
-          <Node name="Palm_02-purple" id="407cb51f-ac75-4536-9bbd-f71d8deadee3" channelId="a4c9f0b3-0087-425b-9033-768a56ad71b8">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="d08e9d5d-966e-4019-890c-8fb23f943635" />
-            </Properties>
+          <Node name="Garage" id="d959fe33-9651-40ae-8e6a-d334a30122b5">
+            <Node name="Garage-Trim" id="ed518163-62bd-45c3-ad74-efe398ad010b" channelId="32146198-1a5a-45dd-95b1-0f20b7671031">
+              <Properties>
+                <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="7e48db57-cb7d-4cd0-924c-19147de18e01" />
+              </Properties>
+            </Node>
+            <Node name="Garage Window" id="67342be1-5bc6-4ba7-a2aa-99c6ea029d7c" channelId="ba5d768e-7520-4318-99c0-46cc4e824f1c">
+              <Properties>
+                <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="93695156-87e1-4cae-b271-727962df82ba" />
+              </Properties>
+            </Node>
           </Node>
         </Node>
-        <Node name="Palm_03" id="fb760a53-b54c-4b81-b9b6-b7b2cc5fe407">
-          <Node name="Palm_03-top" id="4a340f6e-0f59-4491-94d8-1331b6b21b39" channelId="84c46b6d-f1bd-4ec6-9436-9dd3c462ef2b">
+        <Node name="Roof" id="d0f3b558-b708-433a-88b7-58e3c94e85fb">
+          <Node name="Roofline" id="e74961ff-339d-4ed0-b112-a0fff4150f89" channelId="009d1180-d62a-433b-bd1c-041f6c42a9c6">
             <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="c3dcf497-8ba2-4d20-bdec-0b2e8d43246d" />
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0c9a9a63-0937-4579-815d-a82dd474ac9d" />
             </Properties>
           </Node>
-          <Node name="Palm_03-middle" id="2bedbd63-36a3-4928-b251-ad491fdb55cf" channelId="cc08640f-f4b9-4651-a06d-e4f222284426">
+          <Node name="Icicles" id="d64a3545-fd8b-4498-8283-eaf13412060d" channelId="0b3e8db9-0987-4990-a7ef-a415f2685939">
             <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="06c30a1a-8e74-4a08-8724-fed9a7dbf4ef" />
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="fba3d072-a829-4cef-bc71-af79fa72d80c" />
             </Properties>
           </Node>
-          <Node name="Palm_03-bottom" id="a2fba634-0f4c-4b2f-9e90-ca767120aed6" channelId="4de913f3-80a3-4b02-82b3-8f23d2c2e8bc">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="e743bff5-dc16-4ae5-8a59-24241da01682" />
-            </Properties>
-          </Node>
-          <Node name="Palm_03-cool_white" id="63f1b738-5b44-4605-97fb-c15843d05b79" channelId="0f8c71b6-f301-4918-a4f0-abb490ba7507">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="11023aec-5ed8-4ad9-86eb-d63e96c4f6f8" />
-            </Properties>
-          </Node>
-          <Node name="Palm_03-multi_color" id="bd384bab-d384-43db-8d58-e900eb5d73ea" channelId="e201917f-a90a-4323-a5ad-6be660ae86e6">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="775182f7-880a-4df2-ae69-d8523786fbcc" />
-            </Properties>
-          </Node>
-          <Node name="Palm_03-purple" id="e4e46de0-5858-472e-9fdf-3af5130df832" channelId="62a583f4-7b6e-43f2-8d2f-6dd07841c5df">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="4243c79a-8f8e-43ec-b4d7-cef4560ca00c" />
-            </Properties>
-          </Node>
-        </Node>
-        <Node name="Palm_04" id="3c3982a5-8c14-4325-a414-b329ee75e70a">
-          <Node name="Palm_04-top" id="67b21746-3cb7-4530-9cbb-ca3930100337" channelId="00a9dbc2-16a1-4f77-aab3-8222019ee361">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="9d61f552-3ab8-40f6-8f66-ad76e585c37a" />
-            </Properties>
-          </Node>
-          <Node name="Palm_04-middle" id="f64bef9b-a735-4a8f-8a28-86458374ec08" channelId="26339195-01cb-4de0-856a-eabb7224d2ed">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="946c78bb-acbb-4ac8-b14f-a9a979d5eed3" />
-            </Properties>
-          </Node>
-          <Node name="Palm_04-bottom" id="277c7e3f-2b9f-4b43-a3e7-20a38292aaf3" channelId="03c59d65-71c5-4488-bc9f-4cb63e9d74f1">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="1b05e605-2d9d-4412-bc90-5f2107133741" />
-            </Properties>
-          </Node>
-          <Node name="Palm_04-cool_white" id="f9dc3bba-6cc1-4040-835e-dfb323722d48" channelId="99b5e5c1-91a6-4b10-a6e1-65c0ae7f0830">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="29f0a95d-b52f-4205-aaa3-f763a4920194" />
-            </Properties>
-          </Node>
-          <Node name="Palm_04-multi_color" id="e1e6884d-abb9-4703-972f-e27495ebe9fe" channelId="a8e6ec53-6e41-4df5-9056-061cf3c79110">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0f85d001-9dd4-4e4b-95e3-4a427afa1fbb" />
-            </Properties>
-          </Node>
-          <Node name="Palm_04-purple" id="3fb7c206-bd68-403d-9d76-4e7551fad1d6" channelId="b2d145ea-1472-4061-8d89-8e77d677532e">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="d151b75b-de50-4816-86d7-a0b9ef4d597c" />
-            </Properties>
-          </Node>
-          <Node name="Palm_04-TunrTo-Sign" id="583949d5-26ce-4660-9808-31e5de6cf53f" channelId="9763d794-3a4f-4fca-8304-0a4eda91bfca">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0c0494a7-282e-4c2c-8d1a-ff9cc988ba30" />
-            </Properties>
-          </Node>
-        </Node>
-      </Node>
-      <Node name="Floods" id="d5f15c98-88fe-433a-b340-64945a3c9207">
-        <Node name="Flood-Red" id="4b4fc5ac-97f7-4754-8674-f1ed554d25a6" channelId="2aa4364e-ba41-4a4b-9528-13cc8766d9f9">
-          <Properties>
-            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="9ebaacec-bc47-4cc5-9e66-0e902c8fd523" />
-          </Properties>
-        </Node>
-        <Node name="Flood-Green" id="d46cb6c3-ca25-47ac-a33e-20fc0163528a" channelId="71a5f5ec-a1cb-4bb3-946a-c03ef4428cd5">
-          <Properties>
-            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="51614a6a-8ecf-4776-98b2-c6768cf9a965" />
-          </Properties>
-        </Node>
-        <Node name="Flood-Blue" id="ea81deaf-2a79-4520-96b7-044ab27dcfe1" channelId="b1fe4ef3-f739-4819-8967-df18c9a2b186">
-          <Properties>
-            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="5e36d3b3-04bc-4ba2-8b47-8314a4db9cc1" />
-          </Properties>
         </Node>
       </Node>
     </Node>
@@ -433,68 +345,156 @@
       </Node>
     </Node>
     <Node name="Cupid" id="6093cd07-e27b-4364-8442-2c38d07b2935">
-      <Node name="House" id="09b77482-98dd-4189-a7d7-0a199836c366">
-        <Node name="Windows&amp;Garage" id="d8dbb6e9-f3e2-435e-a4dc-43b308230439">
-          <Node name="Jasmine-Window-L" id="7a28f356-1825-48c6-baf9-c22f587bc8ad">
-            <Node name="Jasmine-Window-L-Trim" id="b41265a2-e81e-4c0b-aa56-f9994aa2e2cd" channelId="645e89d5-cff9-482f-ab87-f53a8e28f2d4">
-              <Properties>
-                <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="498b69b0-c81e-49a9-8533-aa4405bed9de" />
-              </Properties>
-            </Node>
-            <Node name="Jasmine-Window-L-Wreath" id="6e2bb5a7-fdc8-48e1-9f63-4eb519630c38" channelId="dabdb8c5-32bd-4508-aca3-21774b5694d3">
-              <Properties>
-                <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="5eb32700-6857-4205-99d6-df243bc74097" />
-              </Properties>
-            </Node>
+      <Node name="Palms" id="9c491354-cd61-4cfb-bb36-3569d232ab70">
+        <Node name="Palm_01" id="afa703dd-d881-4827-831f-432ab7a56973">
+          <Node name="Palm_01-top" id="4b276103-3157-4164-8d7c-93a0fedf2eb7" channelId="41a48fcd-1d4f-470f-b518-a69afd5e26fa">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="72f3a511-5651-4891-bc14-66284bfbda9e" />
+            </Properties>
           </Node>
-          <Node name="Jasmine-Window-R" id="73b58534-4a37-4fc6-adc2-7f55fb11334a">
-            <Node name="Jasmine-Window-R-Trim" id="aef6ffaa-3bd4-44ba-8723-004846295c04" channelId="e1ce2ac9-e5f1-4478-aacb-1b22f179f067">
-              <Properties>
-                <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="a516f82a-0eaa-412c-a977-9a06014fed5a" />
-              </Properties>
-            </Node>
-            <Node name="Jasmine-Window-R-Wreath" id="65845935-4ade-4224-92ff-e2f9f1fd8672" channelId="d4413e9d-451e-4e9d-ac9c-76e54aa16bc7">
-              <Properties>
-                <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="a9d97b78-e00b-4b84-9f07-117bc0b81829" />
-              </Properties>
-            </Node>
+          <Node name="Palm_01-middle" id="a8ca96da-e210-49ae-ad3c-619efa7881f2" channelId="0d3dc03a-363e-495f-a6a2-26e08df101ba">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="7fc0de8c-58a2-4d90-98e0-b41c44d5779c" />
+            </Properties>
           </Node>
-          <Node name="LivingRoom-Window" id="41dd941d-b5b1-4b20-a1b9-e3ac9cf2cc9b">
-            <Node name="LivingRoom-Window-Trim" id="cbb0fdaa-7ef2-4b8b-a7f3-50602d6b4099" channelId="958075b9-4fbf-4e91-96f9-8b960d0fb743">
-              <Properties>
-                <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="b3cf75a8-56eb-4e21-8454-81743c7403e0" />
-              </Properties>
-            </Node>
-            <Node name="LivingRoom-Window-Wreath" id="1f05300b-f4f4-4120-b122-747c3c251e18" channelId="5a1a41ce-0a0e-45cf-97a5-ca66970da1aa">
-              <Properties>
-                <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="3a14c06a-05f1-4631-9ae6-23eb66684b07" />
-              </Properties>
-            </Node>
+          <Node name="Palm_01-bottom" id="21e7ccea-523c-402a-8651-456ac6e1545a" channelId="fd041170-683a-444a-a43b-3ab13bbc035b">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0a40e772-4513-4b49-9852-22052445b4e9" />
+            </Properties>
           </Node>
-          <Node name="Garage" id="d959fe33-9651-40ae-8e6a-d334a30122b5">
-            <Node name="Garage-Trim" id="ed518163-62bd-45c3-ad74-efe398ad010b" channelId="32146198-1a5a-45dd-95b1-0f20b7671031">
-              <Properties>
-                <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="7e48db57-cb7d-4cd0-924c-19147de18e01" />
-              </Properties>
-            </Node>
-            <Node name="Garage Window" id="67342be1-5bc6-4ba7-a2aa-99c6ea029d7c" channelId="ba5d768e-7520-4318-99c0-46cc4e824f1c">
-              <Properties>
-                <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="93695156-87e1-4cae-b271-727962df82ba" />
-              </Properties>
-            </Node>
+          <Node name="Palm_01-cool_white" id="ace7c291-d09d-4186-88a8-510ffcc00bf3" channelId="ac9baaa1-2ca1-4689-97ec-25ecae068cf1">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="870b9bb6-ed8d-4412-8a61-fefe9cfee900" />
+            </Properties>
+          </Node>
+          <Node name="Palm_01-multi_color" id="eeed6c39-bacd-4904-ba04-5ac1e8c618af" channelId="0c4d1212-cd25-4210-b38e-c331882834c3">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="8daff9ec-5759-413e-984d-700af622ca46" />
+            </Properties>
+          </Node>
+          <Node name="Palm_01-purple" id="dd6286e6-e8ca-479a-9b2b-fd611e7b8465" channelId="55e26df7-1e7e-432d-aa3a-3ce5e8d01e84">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="ca54efea-c8a2-4a1d-b38d-35c144a57d5b" />
+            </Properties>
           </Node>
         </Node>
-        <Node name="Roof" id="d0f3b558-b708-433a-88b7-58e3c94e85fb">
-          <Node name="Roofline" id="e74961ff-339d-4ed0-b112-a0fff4150f89" channelId="009d1180-d62a-433b-bd1c-041f6c42a9c6">
+        <Node name="Palm_02" id="2482014d-a433-4c6c-befa-df2c23505d4f">
+          <Node name="Palm_02-top " id="c44deaa0-ed34-4992-a1b4-451eeed41b59" channelId="d68fa778-3cce-4a63-aa9a-aedb0950efa5">
             <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0c9a9a63-0937-4579-815d-a82dd474ac9d" />
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="f4598be3-d79d-4cd9-9ae6-82e89c2ae78b" />
             </Properties>
           </Node>
-          <Node name="Icicles" id="d64a3545-fd8b-4498-8283-eaf13412060d" channelId="0b3e8db9-0987-4990-a7ef-a415f2685939">
+          <Node name="Palm_02-middle " id="7021b55f-5853-4be3-a7af-df7b53d5b3cb" channelId="8c3d7743-1e83-4a4c-b14e-ac32d4689035">
             <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="fba3d072-a829-4cef-bc71-af79fa72d80c" />
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="7ea372c9-03d9-459a-b7d9-80dba88b974f" />
             </Properties>
           </Node>
+          <Node name="Palm_02-bottom " id="2e28e83a-82a0-4a0d-829f-09d48a7c661f" channelId="b59f25c7-47d8-4a59-b452-2fae838c2238">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="08fbd6b9-7413-4ded-827b-96571b341a2e" />
+            </Properties>
+          </Node>
+          <Node name="Palm_02-cool_white" id="46b368f2-f78f-4bc1-88bb-6f2b45cfc582" channelId="d06a22ef-1dea-4abb-9a2e-12244810a510">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="59718d67-1643-4834-9e88-26127b3bdb80" />
+            </Properties>
+          </Node>
+          <Node name="Palm_02-multi_color" id="76bda25e-1ded-4075-9370-2f5a1ed944ee" channelId="df8d54f5-c925-4719-aace-8791e8819dbf">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="63a6310e-3451-4d3a-a686-0cd2e7e63d2d" />
+            </Properties>
+          </Node>
+          <Node name="Palm_02-purple" id="407cb51f-ac75-4536-9bbd-f71d8deadee3" channelId="a4c9f0b3-0087-425b-9033-768a56ad71b8">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="d08e9d5d-966e-4019-890c-8fb23f943635" />
+            </Properties>
+          </Node>
+        </Node>
+        <Node name="Palm_03" id="fb760a53-b54c-4b81-b9b6-b7b2cc5fe407">
+          <Node name="Palm_03-top" id="4a340f6e-0f59-4491-94d8-1331b6b21b39" channelId="84c46b6d-f1bd-4ec6-9436-9dd3c462ef2b">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="c3dcf497-8ba2-4d20-bdec-0b2e8d43246d" />
+            </Properties>
+          </Node>
+          <Node name="Palm_03-middle" id="2bedbd63-36a3-4928-b251-ad491fdb55cf" channelId="cc08640f-f4b9-4651-a06d-e4f222284426">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="06c30a1a-8e74-4a08-8724-fed9a7dbf4ef" />
+            </Properties>
+          </Node>
+          <Node name="Palm_03-bottom" id="a2fba634-0f4c-4b2f-9e90-ca767120aed6" channelId="4de913f3-80a3-4b02-82b3-8f23d2c2e8bc">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="e743bff5-dc16-4ae5-8a59-24241da01682" />
+            </Properties>
+          </Node>
+          <Node name="Palm_03-cool_white" id="63f1b738-5b44-4605-97fb-c15843d05b79" channelId="0f8c71b6-f301-4918-a4f0-abb490ba7507">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="11023aec-5ed8-4ad9-86eb-d63e96c4f6f8" />
+            </Properties>
+          </Node>
+          <Node name="Palm_03-multi_color" id="bd384bab-d384-43db-8d58-e900eb5d73ea" channelId="e201917f-a90a-4323-a5ad-6be660ae86e6">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="775182f7-880a-4df2-ae69-d8523786fbcc" />
+            </Properties>
+          </Node>
+          <Node name="Palm_03-purple" id="e4e46de0-5858-472e-9fdf-3af5130df832" channelId="62a583f4-7b6e-43f2-8d2f-6dd07841c5df">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="4243c79a-8f8e-43ec-b4d7-cef4560ca00c" />
+            </Properties>
+          </Node>
+        </Node>
+        <Node name="Palm_04" id="3c3982a5-8c14-4325-a414-b329ee75e70a">
+          <Node name="Palm_04-top" id="67b21746-3cb7-4530-9cbb-ca3930100337" channelId="00a9dbc2-16a1-4f77-aab3-8222019ee361">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="9d61f552-3ab8-40f6-8f66-ad76e585c37a" />
+            </Properties>
+          </Node>
+          <Node name="Palm_04-middle" id="f64bef9b-a735-4a8f-8a28-86458374ec08" channelId="26339195-01cb-4de0-856a-eabb7224d2ed">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="946c78bb-acbb-4ac8-b14f-a9a979d5eed3" />
+            </Properties>
+          </Node>
+          <Node name="Palm_04-bottom" id="277c7e3f-2b9f-4b43-a3e7-20a38292aaf3" channelId="03c59d65-71c5-4488-bc9f-4cb63e9d74f1">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="1b05e605-2d9d-4412-bc90-5f2107133741" />
+            </Properties>
+          </Node>
+          <Node name="Palm_04-cool_white" id="f9dc3bba-6cc1-4040-835e-dfb323722d48" channelId="99b5e5c1-91a6-4b10-a6e1-65c0ae7f0830">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="29f0a95d-b52f-4205-aaa3-f763a4920194" />
+            </Properties>
+          </Node>
+          <Node name="Palm_04-multi_color" id="e1e6884d-abb9-4703-972f-e27495ebe9fe" channelId="a8e6ec53-6e41-4df5-9056-061cf3c79110">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0f85d001-9dd4-4e4b-95e3-4a427afa1fbb" />
+            </Properties>
+          </Node>
+          <Node name="Palm_04-purple" id="3fb7c206-bd68-403d-9d76-4e7551fad1d6" channelId="b2d145ea-1472-4061-8d89-8e77d677532e">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="d151b75b-de50-4816-86d7-a0b9ef4d597c" />
+            </Properties>
+          </Node>
+          <Node name="Palm_04-TunrTo-Sign" id="583949d5-26ce-4660-9808-31e5de6cf53f" channelId="9763d794-3a4f-4fca-8304-0a4eda91bfca">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0c0494a7-282e-4c2c-8d1a-ff9cc988ba30" />
+            </Properties>
+          </Node>
+        </Node>
+      </Node>
+      <Node name="Floods" id="d5f15c98-88fe-433a-b340-64945a3c9207">
+        <Node name="Flood-Red" id="4b4fc5ac-97f7-4754-8674-f1ed554d25a6" channelId="2aa4364e-ba41-4a4b-9528-13cc8766d9f9">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="9ebaacec-bc47-4cc5-9e66-0e902c8fd523" />
+          </Properties>
+        </Node>
+        <Node name="Flood-Green" id="d46cb6c3-ca25-47ac-a33e-20fc0163528a" channelId="71a5f5ec-a1cb-4bb3-946a-c03ef4428cd5">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="51614a6a-8ecf-4776-98b2-c6768cf9a965" />
+          </Properties>
+        </Node>
+        <Node name="Flood-Blue" id="ea81deaf-2a79-4520-96b7-044ab27dcfe1" channelId="b1fe4ef3-f739-4819-8967-df18c9a2b186">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="5e36d3b3-04bc-4ba2-8b47-8314a4db9cc1" />
+          </Properties>
         </Node>
       </Node>
     </Node>
