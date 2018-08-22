@@ -30,7 +30,7 @@
     <Channel id="99b5e5c1-91a6-4b10-a6e1-65c0ae7f0830" name="Palm_04-cool_white" />
     <Channel id="a8e6ec53-6e41-4df5-9056-061cf3c79110" name="Palm_04-multi_color" />
     <Channel id="b2d145ea-1472-4061-8d89-8e77d677532e" name="Palm_04-purple" />
-    <Channel id="9763d794-3a4f-4fca-8304-0a4eda91bfca" name="Palm_04-TunrTo-Sign" />
+    <Channel id="9763d794-3a4f-4fca-8304-0a4eda91bfca" name="TuneTo-Sign" />
     <Channel id="e45fa0f1-ef4c-4115-8aaf-4445c05b284b" name="MiniTree_02" />
     <Channel id="816aeaf0-575a-4c2c-9bd2-9966e11eaee3" name="MiniTree_01" />
     <Channel id="01262e2a-0cd7-4405-9d89-7cf06cd82cc0" name="MiniTree_03" />
@@ -84,7 +84,7 @@
     <Channel id="317b8542-59d5-4d20-bef6-80316cd8ce0a" name="Rudolph" />
     <Channel id="ce584f08-8889-4290-8a0e-45c69aed848f" name="Vixen" />
     <Channel id="3527198d-34a6-4e34-a264-40fb5a76cb97" name="Base" />
-    <Channel id="97fa2d12-6cbe-4cd7-82fa-13f6144d6949" name="Plants" />
+    <Channel id="97fa2d12-6cbe-4cd7-82fa-13f6144d6949" name="Star_01" />
     <Channel id="202b3a13-78cb-41af-9178-f9d48bf43acd" name="Tall-Bush-R" />
     <Channel id="c6843bc9-e6df-442f-b065-61a211dc6d7d" name="Tall-Bush-L" />
     <Channel id="9b0eacb0-2e49-4478-bf1e-75db8a0fd911" name="Center-Bushes" />
@@ -94,6 +94,7 @@
     <Channel id="a76f37bb-94a7-461a-a43b-0a37168297ee" name="MiniTree_06" />
     <Channel id="13871c6f-fd4d-4145-8dae-33500521fbe9" name="MiniTree_07" />
     <Channel id="a7bb7ce0-e6c6-49e5-b707-08ac300d1c6c" name="MiniTree_08" />
+    <Channel id="4b268ff1-5957-4067-8d0c-30dc66fe25ea" name="Star_02" />
   </Channels>
   <Nodes>
     <Node name="Blitzen" id="66d36974-6c18-4338-bb9c-bbe75a211ef6">
@@ -367,8 +368,6 @@
           </Properties>
         </Node>
       </Node>
-    </Node>
-    <Node name="Cupid" id="6093cd07-e27b-4364-8442-2c38d07b2935">
       <Node name="Palms" id="9c491354-cd61-4cfb-bb36-3569d232ab70">
         <Node name="Palm_01" id="afa703dd-d881-4827-831f-432ab7a56973">
           <Node name="Palm_01-top" id="4b276103-3157-4164-8d7c-93a0fedf2eb7" channelId="41a48fcd-1d4f-470f-b518-a69afd5e26fa">
@@ -497,11 +496,6 @@
               <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="d151b75b-de50-4816-86d7-a0b9ef4d597c" />
             </Properties>
           </Node>
-          <Node name="Palm_04-TunrTo-Sign" id="583949d5-26ce-4660-9808-31e5de6cf53f" channelId="9763d794-3a4f-4fca-8304-0a4eda91bfca">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0c0494a7-282e-4c2c-8d1a-ff9cc988ba30" />
-            </Properties>
-          </Node>
         </Node>
       </Node>
       <Node name="Floods" id="d5f15c98-88fe-433a-b340-64945a3c9207">
@@ -521,8 +515,13 @@
           </Properties>
         </Node>
       </Node>
+      <Node name="TuneTo-Sign" id="583949d5-26ce-4660-9808-31e5de6cf53f" channelId="9763d794-3a4f-4fca-8304-0a4eda91bfca">
+        <Properties>
+          <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0c0494a7-282e-4c2c-8d1a-ff9cc988ba30" />
+        </Properties>
+      </Node>
     </Node>
-    <Node name="Dancer" id="33de223f-0ef1-4a99-abaa-168b4ceb9b67">
+    <Node name="Cupid" id="6093cd07-e27b-4364-8442-2c38d07b2935">
       <Node name="Foliage" id="9b2cec06-3604-47cc-8ea1-28c912b9f433">
         <Node name="Planter" id="8faacdf1-80f4-4b97-8894-3d6a1c96368f">
           <Node name="Base" id="aecbd8df-d7a4-48f0-ab56-d00c4101de45" channelId="3527198d-34a6-4e34-a264-40fb5a76cb97">
@@ -535,7 +534,16 @@
               <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="cdab8ee9-0b81-4e9d-beee-9c1b4ef94c52" />
             </Properties>
           </Node>
-          <Node name="Plants" id="9f66bb0a-7bea-424a-931b-b373aaf00f79" channelId="97fa2d12-6cbe-4cd7-82fa-13f6144d6949" />
+          <Node name="Star_01" id="9f66bb0a-7bea-424a-931b-b373aaf00f79" channelId="97fa2d12-6cbe-4cd7-82fa-13f6144d6949">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="f7999b2a-b77d-401e-8951-f96e8e5d1a5c" />
+            </Properties>
+          </Node>
+          <Node name="Star_02" id="a6acb7d7-e8f3-47f9-b879-0eef9db1ab45" channelId="4b268ff1-5957-4067-8d0c-30dc66fe25ea">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="b9901d80-9982-4f97-ba6a-c9a293031dcb" />
+            </Properties>
+          </Node>
         </Node>
         <Node name="Jasmine-Room" id="dfe075a8-e5f6-4315-a0da-0413f9d18469">
           <Node name="Tall-Bush-L" id="c2be1d8a-b37a-47b1-a98a-9f3d0c85f94e" channelId="c6843bc9-e6df-442f-b065-61a211dc6d7d">
@@ -555,6 +563,8 @@
           </Node>
         </Node>
       </Node>
+    </Node>
+    <Node name="Dancer" id="33de223f-0ef1-4a99-abaa-168b4ceb9b67">
       <Node name="Leaping-Arches" id="02efcdae-fb03-47f2-933c-0f8c50e67edd" channelId="4d2cf137-e2d5-48a4-9c2d-0568bbee3281" />
     </Node>
     <Node name="Dasher" id="8507abf6-303d-42b9-a358-69c849b629e4" channelId="05fdd3a1-eb02-4030-bcac-fc3efc562a50" />
@@ -651,6 +661,8 @@
     <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="08b5013c-3774-4cf9-a211-59310c95a5f8" />
     <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="832b5969-2e6f-416c-a4ad-2eb658d09632" />
     <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="f241046f-5b53-4424-aa27-89ddbcaf3926" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="95a456a1-a0fb-4dbe-a3db-c0346bc5a940" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="e6595d03-3d97-47ba-8154-1d5df2c32fba" />
   </Filters>
   <Patches>
     <Patch componentId="9cefea06-ac06-4a26-ae8b-1d45349b3fa2" sourceId="41a48fcd-1d4f-470f-b518-a69afd5e26fa" output="0" />
@@ -728,6 +740,7 @@
     <Patch componentId="37483a4f-836f-4bcb-8b36-84962ebaa397" sourceId="5ccd3a10-8c40-4817-a644-cefe04af2dae" output="0" />
     <Patch componentId="4605c6d2-e775-4c7f-9201-2d8fedd6695b" sourceId="ba5d768e-7520-4318-99c0-46cc4e824f1c" output="0" />
     <Patch componentId="920cc321-e94a-41d7-8a2a-7cac70576120" sourceId="3527198d-34a6-4e34-a264-40fb5a76cb97" output="0" />
+    <Patch componentId="95a456a1-a0fb-4dbe-a3db-c0346bc5a940" sourceId="97fa2d12-6cbe-4cd7-82fa-13f6144d6949" output="0" />
     <Patch componentId="6108c8aa-777d-417c-ab02-5eb28737eb34" sourceId="202b3a13-78cb-41af-9178-f9d48bf43acd" output="0" />
     <Patch componentId="530d85d7-2a43-438b-8ffa-1c52d65b7893" sourceId="c6843bc9-e6df-442f-b065-61a211dc6d7d" output="0" />
     <Patch componentId="c1cc64c7-afa2-46dd-9e2e-cc6990ac07c8" sourceId="9b0eacb0-2e49-4478-bf1e-75db8a0fd911" output="0" />
@@ -736,6 +749,7 @@
     <Patch componentId="08b5013c-3774-4cf9-a211-59310c95a5f8" sourceId="a76f37bb-94a7-461a-a43b-0a37168297ee" output="0" />
     <Patch componentId="832b5969-2e6f-416c-a4ad-2eb658d09632" sourceId="13871c6f-fd4d-4145-8dae-33500521fbe9" output="0" />
     <Patch componentId="f241046f-5b53-4424-aa27-89ddbcaf3926" sourceId="a7bb7ce0-e6c6-49e5-b707-08ac300d1c6c" output="0" />
+    <Patch componentId="e6595d03-3d97-47ba-8154-1d5df2c32fba" sourceId="4b268ff1-5957-4067-8d0c-30dc66fe25ea" output="0" />
   </Patches>
   <DisabledDevices />
 </SystemConfig>
