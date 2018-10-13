@@ -240,7 +240,61 @@
         </Properties>
       </Node>
     </Node>
-    <Node name="Comet" id="913faf06-4b54-4cbb-a199-38f4ee6ec532">
+    <Node name="Comet" id="33de223f-0ef1-4a99-abaa-168b4ceb9b67">
+      <Node name="Foliage" id="9b2cec06-3604-47cc-8ea1-28c912b9f433">
+        <Node name="Planter" id="8faacdf1-80f4-4b97-8894-3d6a1c96368f">
+          <Node name="Base" id="aecbd8df-d7a4-48f0-ab56-d00c4101de45" channelId="3527198d-34a6-4e34-a264-40fb5a76cb97">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0b5648dd-1b54-46ae-ad77-b2605fa04b35" />
+            </Properties>
+          </Node>
+          <Node name="Bushes" id="8c0017f2-d6c0-418e-8c34-2478d70e07e5" channelId="5ccd3a10-8c40-4817-a644-cefe04af2dae">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="cdab8ee9-0b81-4e9d-beee-9c1b4ef94c52" />
+            </Properties>
+          </Node>
+          <Node name="Star_01" id="9f66bb0a-7bea-424a-931b-b373aaf00f79" channelId="97fa2d12-6cbe-4cd7-82fa-13f6144d6949">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="f7999b2a-b77d-401e-8951-f96e8e5d1a5c" />
+            </Properties>
+          </Node>
+          <Node name="Star_02" id="a6acb7d7-e8f3-47f9-b879-0eef9db1ab45" channelId="4b268ff1-5957-4067-8d0c-30dc66fe25ea">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="b9901d80-9982-4f97-ba6a-c9a293031dcb" />
+            </Properties>
+          </Node>
+        </Node>
+        <Node name="Jasmine-Room" id="dfe075a8-e5f6-4315-a0da-0413f9d18469">
+          <Node name="Tall-Bush-L" id="c2be1d8a-b37a-47b1-a98a-9f3d0c85f94e" channelId="c6843bc9-e6df-442f-b065-61a211dc6d7d">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="d5f71b92-7a31-42db-8df9-9e72b64d1663" />
+            </Properties>
+          </Node>
+          <Node name="Tall-Bush-R" id="2dae2a1c-c004-42f6-80c1-31adb07ff46d" channelId="202b3a13-78cb-41af-9178-f9d48bf43acd">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="1fd2dcd4-d4bb-44c7-aeb9-357d8a17d59b" />
+            </Properties>
+          </Node>
+          <Node name="Center-Bushes" id="a430a13f-f769-4ffd-ad73-64546de52da0" channelId="9b0eacb0-2e49-4478-bf1e-75db8a0fd911">
+            <Properties>
+              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="ad75f663-26b6-4384-9bdf-618767d206dc" />
+            </Properties>
+          </Node>
+        </Node>
+      </Node>
+      <Node name="_SPARE-1" id="cc423039-334f-442b-a68d-a0cdc7321f16" channelId="b5bdf119-50eb-4a78-8a2a-a33050db0432" />
+      <Node name="_SPARE-2 - 2" id="4f244ecb-1f72-4398-94b6-cadbf4850a42" channelId="1a2685bc-155d-4f3b-8b0f-bedb38ccfefc" />
+      <Node name="_SPARE-3 - 2" id="cb054150-b9cf-4ae5-b5a1-27805420cc7f" channelId="8bc11bd1-a476-427e-99d0-ecf09827f9fe" />
+      <Node name="_SPARE-4 - 2" id="55bf5ba1-92cd-4e4f-8d06-66a2142b9b9a" channelId="2b2f59d6-ae08-4f9c-afba-001dc2ab98fb" />
+      <Node name="_SPARE-5 - 2" id="74265b71-8aea-441c-8e72-a31a596f56e3" channelId="a0fca148-957e-4628-b4b2-cc544eb2a4b3" />
+      <Node name="_SPARE-6 - 2" id="e41ab211-afac-4840-896b-e0330db34cb0" channelId="49338ea4-027f-468a-ac64-e9134c2e7a89" />
+      <Node name="_SPARE-7 - 2" id="c926e340-4b57-4f36-96b7-f631a4c19dc1" channelId="9e53e464-75db-428e-9c7f-86bd26feff79" />
+      <Node name="_SPARE-8 - 2" id="41235121-78e4-4d74-85f8-6b911af642a5" channelId="d72c4027-98c0-413e-bf69-438f3e46ba33" />
+      <Node name="_SPARE-9 - 2" id="0b02255e-2594-4bcf-976f-b610813ffb79" channelId="7f363247-4eec-4982-84c8-e484939b2984" />
+      <Node name="_SPARE-10 - 2" id="ac9a67a5-7cd9-4489-a6bf-42eb80e05e76" channelId="7e2b118f-23a9-4377-9a5f-0d67e53f4bda" />
+      <Node name="_SPARE-11 - 2" id="4455fa17-8aba-4fa9-8478-2decdb30fc2e" channelId="2ca53700-40df-4a17-a207-947e8e9b4a9c" />
+    </Node>
+    <Node name="Cupid" id="913faf06-4b54-4cbb-a199-38f4ee6ec532">
       <Node name="Palms" id="9c491354-cd61-4cfb-bb36-3569d232ab70">
         <Node name="Palm_01" id="afa703dd-d881-4827-831f-432ab7a56973">
           <Node name="Palm_01-Matchead" id="583949d5-26ce-4660-9808-31e5de6cf53f" channelId="9763d794-3a4f-4fca-8304-0a4eda91bfca">
@@ -501,7 +555,7 @@
       <Node name="_SPARE-39" id="5a5760e6-ea16-4b27-937b-3333916823f8" channelId="4e3f8610-515e-4e05-8b26-dfffabd0aa24" />
       <Node name="_SPARE-40" id="37e62ed4-431b-4026-9992-9b8c349f879c" channelId="0a1d2874-7fc2-4d59-9a32-b26674272f29" />
     </Node>
-    <Node name="Cupid" id="6093cd07-e27b-4364-8442-2c38d07b2935">
+    <Node name="Dancer" id="6093cd07-e27b-4364-8442-2c38d07b2935">
       <Node name="SpiralTree_01" id="515cd40a-0ec8-4ce6-a5ef-132ca1695952">
         <Node name="SpiralTree_01-red-01" id="cb1f20f6-7fd2-44fe-8a57-9f9844926dc1" channelId="c634495a-baac-460d-ab65-a9d05958f795">
           <Properties>
@@ -664,60 +718,6 @@
           </Properties>
         </Node>
       </Node>
-    </Node>
-    <Node name="Dancer" id="33de223f-0ef1-4a99-abaa-168b4ceb9b67">
-      <Node name="Foliage" id="9b2cec06-3604-47cc-8ea1-28c912b9f433">
-        <Node name="Planter" id="8faacdf1-80f4-4b97-8894-3d6a1c96368f">
-          <Node name="Base" id="aecbd8df-d7a4-48f0-ab56-d00c4101de45" channelId="3527198d-34a6-4e34-a264-40fb5a76cb97">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0b5648dd-1b54-46ae-ad77-b2605fa04b35" />
-            </Properties>
-          </Node>
-          <Node name="Bushes" id="8c0017f2-d6c0-418e-8c34-2478d70e07e5" channelId="5ccd3a10-8c40-4817-a644-cefe04af2dae">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="cdab8ee9-0b81-4e9d-beee-9c1b4ef94c52" />
-            </Properties>
-          </Node>
-          <Node name="Star_01" id="9f66bb0a-7bea-424a-931b-b373aaf00f79" channelId="97fa2d12-6cbe-4cd7-82fa-13f6144d6949">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="f7999b2a-b77d-401e-8951-f96e8e5d1a5c" />
-            </Properties>
-          </Node>
-          <Node name="Star_02" id="a6acb7d7-e8f3-47f9-b879-0eef9db1ab45" channelId="4b268ff1-5957-4067-8d0c-30dc66fe25ea">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="b9901d80-9982-4f97-ba6a-c9a293031dcb" />
-            </Properties>
-          </Node>
-        </Node>
-        <Node name="Jasmine-Room" id="dfe075a8-e5f6-4315-a0da-0413f9d18469">
-          <Node name="Tall-Bush-L" id="c2be1d8a-b37a-47b1-a98a-9f3d0c85f94e" channelId="c6843bc9-e6df-442f-b065-61a211dc6d7d">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="d5f71b92-7a31-42db-8df9-9e72b64d1663" />
-            </Properties>
-          </Node>
-          <Node name="Tall-Bush-R" id="2dae2a1c-c004-42f6-80c1-31adb07ff46d" channelId="202b3a13-78cb-41af-9178-f9d48bf43acd">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="1fd2dcd4-d4bb-44c7-aeb9-357d8a17d59b" />
-            </Properties>
-          </Node>
-          <Node name="Center-Bushes" id="a430a13f-f769-4ffd-ad73-64546de52da0" channelId="9b0eacb0-2e49-4478-bf1e-75db8a0fd911">
-            <Properties>
-              <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="ad75f663-26b6-4384-9bdf-618767d206dc" />
-            </Properties>
-          </Node>
-        </Node>
-      </Node>
-      <Node name="_SPARE-1" id="cc423039-334f-442b-a68d-a0cdc7321f16" channelId="b5bdf119-50eb-4a78-8a2a-a33050db0432" />
-      <Node name="_SPARE-2 - 2" id="4f244ecb-1f72-4398-94b6-cadbf4850a42" channelId="1a2685bc-155d-4f3b-8b0f-bedb38ccfefc" />
-      <Node name="_SPARE-3 - 2" id="cb054150-b9cf-4ae5-b5a1-27805420cc7f" channelId="8bc11bd1-a476-427e-99d0-ecf09827f9fe" />
-      <Node name="_SPARE-4 - 2" id="55bf5ba1-92cd-4e4f-8d06-66a2142b9b9a" channelId="2b2f59d6-ae08-4f9c-afba-001dc2ab98fb" />
-      <Node name="_SPARE-5 - 2" id="74265b71-8aea-441c-8e72-a31a596f56e3" channelId="a0fca148-957e-4628-b4b2-cc544eb2a4b3" />
-      <Node name="_SPARE-6 - 2" id="e41ab211-afac-4840-896b-e0330db34cb0" channelId="49338ea4-027f-468a-ac64-e9134c2e7a89" />
-      <Node name="_SPARE-7 - 2" id="c926e340-4b57-4f36-96b7-f631a4c19dc1" channelId="9e53e464-75db-428e-9c7f-86bd26feff79" />
-      <Node name="_SPARE-8 - 2" id="41235121-78e4-4d74-85f8-6b911af642a5" channelId="d72c4027-98c0-413e-bf69-438f3e46ba33" />
-      <Node name="_SPARE-9 - 2" id="0b02255e-2594-4bcf-976f-b610813ffb79" channelId="7f363247-4eec-4982-84c8-e484939b2984" />
-      <Node name="_SPARE-10 - 2" id="ac9a67a5-7cd9-4489-a6bf-42eb80e05e76" channelId="7e2b118f-23a9-4377-9a5f-0d67e53f4bda" />
-      <Node name="_SPARE-11 - 2" id="4455fa17-8aba-4fa9-8478-2decdb30fc2e" channelId="2ca53700-40df-4a17-a207-947e8e9b4a9c" />
     </Node>
     <Node name="Dasher" id="8507abf6-303d-42b9-a358-69c849b629e4" channelId="05fdd3a1-eb02-4030-bcac-fc3efc562a50" />
     <Node name="Donner" id="73a6ccd1-a076-4375-ba1b-f66252b6bf83" channelId="f713dd9a-96a1-43b2-bd36-43fe0d7d56d9" />
