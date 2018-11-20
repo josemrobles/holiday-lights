@@ -4392,5 +4392,18 @@
         <MixColors>false</MixColors>
       </ColorBreakdownData>
     </Module>
+    <Module dataModelType="VixenModules.Output.Renard.Data, Renard" moduleType="f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c" moduleInstance="03e706ee-0311-43ea-97d8-f1fcbfa43d79">
+      <Data xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Output.Renard" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">03e706ee-0311-43ea-97d8-f1fcbfa43d79</ModuleInstanceId>
+        <ModuleTypeId xmlns="">f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c</ModuleTypeId>
+        <BaudRate>0</BaudRate>
+        <DataBits>0</DataBits>
+        <Parity>None</Parity>
+        <PortName i:nil="true" />
+        <ProtocolVersion>1</ProtocolVersion>
+        <StopBits>None</StopBits>
+        <WriteTimeout>500</WriteTimeout>
+      </Data>
+    </Module>
   </ModuleData>
 </ModuleStore>
