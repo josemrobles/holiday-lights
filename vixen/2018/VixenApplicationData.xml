@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <VixenApplicationData>
   <DataFormatVersion>3</DataFormatVersion>
-  <RecentSequences />
+  <RecentSequences>
+    <SequenceFile>C:\Users\jose\Documents\holiday-lights\vixen\2018\Sequence\JingleBells.tim</SequenceFile>
+  </RecentSequences>
   <FilterShapePositions />
   <FilterSetupFormHighQualityRendering value="false" />
 </VixenApplicationData>
