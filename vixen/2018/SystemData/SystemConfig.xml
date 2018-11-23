@@ -248,11 +248,13 @@
           <Node name="Base" id="aecbd8df-d7a4-48f0-ab56-d00c4101de45" channelId="3527198d-34a6-4e34-a264-40fb5a76cb97">
             <Properties>
               <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0b5648dd-1b54-46ae-ad77-b2605fa04b35" />
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="d2081944-715e-44f7-be56-2c6c4f7e1daa" />
             </Properties>
           </Node>
           <Node name="Bushes" id="8c0017f2-d6c0-418e-8c34-2478d70e07e5" channelId="5ccd3a10-8c40-4817-a644-cefe04af2dae">
             <Properties>
               <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="cdab8ee9-0b81-4e9d-beee-9c1b4ef94c52" />
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="cb103a1c-1782-4bcb-8b64-9a4b65fa65a3" />
             </Properties>
           </Node>
           <Node name="Star_01" id="9f66bb0a-7bea-424a-931b-b373aaf00f79" channelId="97fa2d12-6cbe-4cd7-82fa-13f6144d6949">
@@ -270,16 +272,19 @@
           <Node name="Tall-Bush-L" id="c2be1d8a-b37a-47b1-a98a-9f3d0c85f94e" channelId="c6843bc9-e6df-442f-b065-61a211dc6d7d">
             <Properties>
               <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="d5f71b92-7a31-42db-8df9-9e72b64d1663" />
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="4d472694-80c9-4ac3-a466-e597c471fff9" />
             </Properties>
           </Node>
           <Node name="Tall-Bush-R" id="2dae2a1c-c004-42f6-80c1-31adb07ff46d" channelId="202b3a13-78cb-41af-9178-f9d48bf43acd">
             <Properties>
               <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="1fd2dcd4-d4bb-44c7-aeb9-357d8a17d59b" />
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="d2559048-6045-46e7-ac02-9e9008d6d237" />
             </Properties>
           </Node>
           <Node name="Center-Bushes" id="a430a13f-f769-4ffd-ad73-64546de52da0" channelId="9b0eacb0-2e49-4478-bf1e-75db8a0fd911">
             <Properties>
               <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="ad75f663-26b6-4384-9bdf-618767d206dc" />
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="ca75d444-1e46-4798-a64b-df4d456f3327" />
             </Properties>
           </Node>
         </Node>
@@ -1066,13 +1071,6 @@
     <Patch componentId="35d7abda-fecb-4007-84f0-b93ed485e05a" sourceId="e201917f-a90a-4323-a5ad-6be660ae86e6" output="0" />
     <Patch componentId="2011310f-c8b1-4008-a5d1-2ce9b2081c4d" sourceId="62a583f4-7b6e-43f2-8d2f-6dd07841c5df" output="0" />
     <Patch componentId="2d70dbb4-cc02-436f-9b62-1d2d29105496" sourceId="2aa4364e-ba41-4a4b-9528-13cc8766d9f9" output="0" />
-    <Patch componentId="58911898-380c-404e-9ba0-9511eca66161" sourceId="f7abedc0-5284-431b-b183-3e95797ad065" output="0" />
-    <Patch componentId="7c898f48-5c83-4167-a05a-4157651e9ff0" sourceId="f7abedc0-5284-431b-b183-3e95797ad065" output="1" />
-    <Patch componentId="5bfc89c1-161a-43b7-b3b8-943beef559d7" sourceId="f7abedc0-5284-431b-b183-3e95797ad065" output="2" />
-    <Patch componentId="e7f94012-b136-4311-a7e3-3cbda78abec9" sourceId="f7abedc0-5284-431b-b183-3e95797ad065" output="3" />
-    <Patch componentId="f12de147-4093-4b42-95e1-0c140a289df0" sourceId="f7abedc0-5284-431b-b183-3e95797ad065" output="4" />
-    <Patch componentId="56d12a1c-079d-40b7-b038-697ef8792ed1" sourceId="f7abedc0-5284-431b-b183-3e95797ad065" output="5" />
-    <Patch componentId="f2f0c0b5-8259-4b49-a8ee-4fecb1c2cf8c" sourceId="f7abedc0-5284-431b-b183-3e95797ad065" output="6" />
     <Patch componentId="08fabba6-b1d2-4a3b-a76f-ff1b24492ef7" sourceId="9763d794-3a4f-4fca-8304-0a4eda91bfca" output="0" />
     <Patch componentId="3a55154a-1898-4457-ad03-5e3a44df1996" sourceId="e45fa0f1-ef4c-4115-8aaf-4445c05b284b" output="0" />
     <Patch componentId="6d3141c2-cca7-4e94-a6b7-d3a4e3a153e5" sourceId="816aeaf0-575a-4c2c-9bd2-9966e11eaee3" output="0" />
@@ -1330,6 +1328,13 @@
     <Patch componentId="2b0741b4-e6b7-49f6-9c27-2f9050aadf57" sourceId="c1cc64c7-afa2-46dd-9e2e-cc6990ac07c8" output="6" />
     <Patch componentId="555f2ccc-7866-4f0f-b45a-25b7298d76b4" sourceId="2d70dbb4-cc02-436f-9b62-1d2d29105496" output="0" />
     <Patch componentId="5a58fcf4-2aa9-453b-98c7-e5291e1e2d97" sourceId="b4a0513b-0318-4c21-92eb-ca3303de9eb9" output="0" />
+    <Patch componentId="58911898-380c-404e-9ba0-9511eca66161" sourceId="f7abedc0-5284-431b-b183-3e95797ad065" output="0" />
+    <Patch componentId="7c898f48-5c83-4167-a05a-4157651e9ff0" sourceId="f7abedc0-5284-431b-b183-3e95797ad065" output="1" />
+    <Patch componentId="5bfc89c1-161a-43b7-b3b8-943beef559d7" sourceId="f7abedc0-5284-431b-b183-3e95797ad065" output="2" />
+    <Patch componentId="e7f94012-b136-4311-a7e3-3cbda78abec9" sourceId="f7abedc0-5284-431b-b183-3e95797ad065" output="3" />
+    <Patch componentId="f12de147-4093-4b42-95e1-0c140a289df0" sourceId="f7abedc0-5284-431b-b183-3e95797ad065" output="4" />
+    <Patch componentId="56d12a1c-079d-40b7-b038-697ef8792ed1" sourceId="f7abedc0-5284-431b-b183-3e95797ad065" output="5" />
+    <Patch componentId="f2f0c0b5-8259-4b49-a8ee-4fecb1c2cf8c" sourceId="f7abedc0-5284-431b-b183-3e95797ad065" output="6" />
     <Patch componentId="b00a2a3b-eae1-43b8-bdb2-d979b6b28e51" sourceId="cdde7121-1f67-4dfe-b6e8-2bccd9564cff" output="0" />
     <Patch componentId="82683dca-f5c1-4da5-af4c-4d9b4e06e406" sourceId="cdde7121-1f67-4dfe-b6e8-2bccd9564cff" output="1" />
     <Patch componentId="05ee3b88-87ec-4197-8d7d-f80de9069583" sourceId="cdde7121-1f67-4dfe-b6e8-2bccd9564cff" output="2" />
