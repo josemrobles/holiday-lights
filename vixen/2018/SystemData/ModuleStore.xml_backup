@@ -9435,11 +9435,11 @@
                   <a:_strings i:nil="true" />
                   <a:_points>
                     <a:PreviewPoint>
-                      <a:X>653</a:X>
+                      <a:X>549</a:X>
                       <a:Y>192</a:Y>
                     </a:PreviewPoint>
                     <a:PreviewPoint>
-                      <a:X>665</a:X>
+                      <a:X>561</a:X>
                       <a:Y>192</a:Y>
                     </a:PreviewPoint>
                   </a:_points>
@@ -9493,11 +9493,11 @@
                   <a:_strings i:nil="true" />
                   <a:_points>
                     <a:PreviewPoint>
-                      <a:X>653</a:X>
+                      <a:X>549</a:X>
                       <a:Y>192</a:Y>
                     </a:PreviewPoint>
                     <a:PreviewPoint>
-                      <a:X>661</a:X>
+                      <a:X>557</a:X>
                       <a:Y>204</a:Y>
                     </a:PreviewPoint>
                   </a:_points>
@@ -9551,11 +9551,11 @@
                   <a:_strings i:nil="true" />
                   <a:_points>
                     <a:PreviewPoint>
-                      <a:X>653</a:X>
+                      <a:X>549</a:X>
                       <a:Y>192</a:Y>
                     </a:PreviewPoint>
                     <a:PreviewPoint>
-                      <a:X>652</a:X>
+                      <a:X>548</a:X>
                       <a:Y>209</a:Y>
                     </a:PreviewPoint>
                   </a:_points>
@@ -9609,11 +9609,11 @@
                   <a:_strings i:nil="true" />
                   <a:_points>
                     <a:PreviewPoint>
-                      <a:X>653</a:X>
+                      <a:X>549</a:X>
                       <a:Y>192</a:Y>
                     </a:PreviewPoint>
                     <a:PreviewPoint>
-                      <a:X>643</a:X>
+                      <a:X>539</a:X>
                       <a:Y>204</a:Y>
                     </a:PreviewPoint>
                   </a:_points>
@@ -9667,11 +9667,11 @@
                   <a:_strings i:nil="true" />
                   <a:_points>
                     <a:PreviewPoint>
-                      <a:X>653</a:X>
+                      <a:X>549</a:X>
                       <a:Y>192</a:Y>
                     </a:PreviewPoint>
                     <a:PreviewPoint>
-                      <a:X>640</a:X>
+                      <a:X>536</a:X>
                       <a:Y>192</a:Y>
                     </a:PreviewPoint>
                   </a:_points>
@@ -9725,11 +9725,11 @@
                   <a:_strings i:nil="true" />
                   <a:_points>
                     <a:PreviewPoint>
-                      <a:X>653</a:X>
+                      <a:X>549</a:X>
                       <a:Y>192</a:Y>
                     </a:PreviewPoint>
                     <a:PreviewPoint>
-                      <a:X>643</a:X>
+                      <a:X>539</a:X>
                       <a:Y>179</a:Y>
                     </a:PreviewPoint>
                   </a:_points>
@@ -9783,11 +9783,11 @@
                   <a:_strings i:nil="true" />
                   <a:_points>
                     <a:PreviewPoint>
-                      <a:X>653</a:X>
+                      <a:X>549</a:X>
                       <a:Y>192</a:Y>
                     </a:PreviewPoint>
                     <a:PreviewPoint>
-                      <a:X>652</a:X>
+                      <a:X>548</a:X>
                       <a:Y>175</a:Y>
                     </a:PreviewPoint>
                   </a:_points>
@@ -9841,11 +9841,11 @@
                   <a:_strings i:nil="true" />
                   <a:_points>
                     <a:PreviewPoint>
-                      <a:X>653</a:X>
+                      <a:X>549</a:X>
                       <a:Y>192</a:Y>
                     </a:PreviewPoint>
                     <a:PreviewPoint>
-                      <a:X>661</a:X>
+                      <a:X>557</a:X>
                       <a:Y>179</a:Y>
                     </a:PreviewPoint>
                   </a:_points>
@@ -9854,20 +9854,20 @@
               <a:Direction>Clockwise</a:Direction>
               <a:_XYRotation>0</a:_XYRotation>
               <a:_bottomLeft>
-                <a:X>640</a:X>
+                <a:X>536</a:X>
                 <a:Y>209</a:Y>
               </a:_bottomLeft>
               <a:_bottomRight>
-                <a:X>665</a:X>
+                <a:X>561</a:X>
                 <a:Y>209</a:Y>
               </a:_bottomRight>
               <a:_innerCircleSize>0</a:_innerCircleSize>
               <a:_topLeft>
-                <a:X>640</a:X>
+                <a:X>536</a:X>
                 <a:Y>175</a:Y>
               </a:_topLeft>
               <a:_topRight>
-                <a:X>665</a:X>
+                <a:X>561</a:X>
                 <a:Y>175</a:Y>
               </a:_topRight>
             </a:Shape>
@@ -26348,6 +26348,426 @@
               </a:_topRight>
             </a:Shape>
           </a:DisplayItem>
+          <a:DisplayItem>
+            <a:Shape i:type="a:PreviewRectangle">
+              <a:Name>Rectangle</a:Name>
+              <a:PixelSize>3</a:PixelSize>
+              <a:Pixels>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+                <a:PreviewPixel>
+                  <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                  <a:Z>0</a:Z>
+                </a:PreviewPixel>
+              </a:Pixels>
+              <a:StringType>Standard</a:StringType>
+              <a:_strings>
+                <a:PreviewBaseShape i:type="a:PreviewLine">
+                  <a:Name>Rectangle</a:Name>
+                  <a:PixelSize>3</a:PixelSize>
+                  <a:Pixels>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                  </a:Pixels>
+                  <a:StringType>Standard</a:StringType>
+                  <a:_strings i:nil="true" />
+                  <a:_points>
+                    <a:PreviewPoint>
+                      <a:X>326</a:X>
+                      <a:Y>514</a:Y>
+                    </a:PreviewPoint>
+                    <a:PreviewPoint>
+                      <a:X>326</a:X>
+                      <a:Y>488</a:Y>
+                    </a:PreviewPoint>
+                  </a:_points>
+                </a:PreviewBaseShape>
+                <a:PreviewBaseShape i:type="a:PreviewLine">
+                  <a:Name>Rectangle</a:Name>
+                  <a:PixelSize>3</a:PixelSize>
+                  <a:Pixels>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                  </a:Pixels>
+                  <a:StringType>Standard</a:StringType>
+                  <a:_strings i:nil="true" />
+                  <a:_points>
+                    <a:PreviewPoint>
+                      <a:X>326</a:X>
+                      <a:Y>488</a:Y>
+                    </a:PreviewPoint>
+                    <a:PreviewPoint>
+                      <a:X>373</a:X>
+                      <a:Y>488</a:Y>
+                    </a:PreviewPoint>
+                  </a:_points>
+                </a:PreviewBaseShape>
+                <a:PreviewBaseShape i:type="a:PreviewLine">
+                  <a:Name>Rectangle</a:Name>
+                  <a:PixelSize>3</a:PixelSize>
+                  <a:Pixels>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                  </a:Pixels>
+                  <a:StringType>Standard</a:StringType>
+                  <a:_strings i:nil="true" />
+                  <a:_points>
+                    <a:PreviewPoint>
+                      <a:X>373</a:X>
+                      <a:Y>488</a:Y>
+                    </a:PreviewPoint>
+                    <a:PreviewPoint>
+                      <a:X>373</a:X>
+                      <a:Y>514</a:Y>
+                    </a:PreviewPoint>
+                  </a:_points>
+                </a:PreviewBaseShape>
+                <a:PreviewBaseShape i:type="a:PreviewLine">
+                  <a:Name>Rectangle</a:Name>
+                  <a:PixelSize>3</a:PixelSize>
+                  <a:Pixels>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                    <a:PreviewPixel>
+                      <a:NodeId>b4b4cc8a-a514-4f08-8652-a26a06f9949f</a:NodeId>
+                      <a:Z>0</a:Z>
+                    </a:PreviewPixel>
+                  </a:Pixels>
+                  <a:StringType>Standard</a:StringType>
+                  <a:_strings i:nil="true" />
+                  <a:_points>
+                    <a:PreviewPoint>
+                      <a:X>373</a:X>
+                      <a:Y>514</a:Y>
+                    </a:PreviewPoint>
+                    <a:PreviewPoint>
+                      <a:X>326</a:X>
+                      <a:Y>514</a:Y>
+                    </a:PreviewPoint>
+                  </a:_points>
+                </a:PreviewBaseShape>
+              </a:_strings>
+              <a:Direction>Clockwise</a:Direction>
+              <a:_bottomLeft>
+                <a:X>326</a:X>
+                <a:Y>514</a:Y>
+              </a:_bottomLeft>
+              <a:_bottomRight>
+                <a:X>373</a:X>
+                <a:Y>514</a:Y>
+              </a:_bottomRight>
+              <a:_topLeft>
+                <a:X>326</a:X>
+                <a:Y>488</a:Y>
+              </a:_topLeft>
+              <a:_topRight>
+                <a:X>373</a:X>
+                <a:Y>488</a:Y>
+              </a:_topRight>
+            </a:Shape>
+          </a:DisplayItem>
         </DisplayItems>
         <Height>1096</Height>
         <Left>1912</Left>
@@ -26418,7 +26838,7 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">92a8458e-ce14-4e16-b9ea-e579a9a4ef43</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>661</X>
+        <X>557</X>
         <Y>179</Y>
         <Z>1</Z>
       </LocationData>
@@ -26735,6 +27155,15 @@
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
         <X>391</X>
         <Y>280</Y>
+        <Z>1</Z>
+      </LocationData>
+    </Module>
+    <Module dataModelType="VixenModules.Property.Location.LocationData, Location" moduleType="3fb53423-dd2a-4719-b3e3-19aa6f062f62" moduleInstance="2f14db02-2fc1-4bf5-afbc-052ac9ef8309">
+      <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">2f14db02-2fc1-4bf5-afbc-052ac9ef8309</ModuleInstanceId>
+        <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
+        <X>326</X>
+        <Y>514</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
