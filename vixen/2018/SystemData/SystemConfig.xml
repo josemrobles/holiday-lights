@@ -353,6 +353,7 @@
       <Node name="TuneToSign" id="b4b4cc8a-a514-4f08-8652-a26a06f9949f" channelId="c8d7b012-83f8-479b-a53e-d4732bcbf6c2">
         <Properties>
           <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="a89beb3b-712b-4b3a-be4b-341541e65bda" />
+          <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="2f14db02-2fc1-4bf5-afbc-052ac9ef8309" />
         </Properties>
       </Node>
       <Node name="Floods" id="a358b822-7f72-4275-9d85-cf1024d1fce5">
