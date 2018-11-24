@@ -104,37 +104,77 @@
       </d2p1:color>
       <d2p1:level>1</d2p1:level>
     </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
-      <ModuleInstanceId>7a1e3cd3-7bbc-4337-812a-1ccdd70b0da4</ModuleInstanceId>
-      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
+      <ModuleInstanceId>1e3646ad-2a32-409f-b66c-7d82daa9108b</ModuleInstanceId>
+      <ModuleTypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
-      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
-      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
-      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
-        <d3p1:knownColor>0</d3p1:knownColor>
-        <d3p1:name i:nil="true" />
-        <d3p1:state>2</d3p1:state>
-        <d3p1:value>4294967295</d3p1:value>
-      </d2p1:Color>
-      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
-      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
-      <d2p1:GroupLevel>1</d2p1:GroupLevel>
-      <d2p1:MaxLevel>1</d2p1:MaxLevel>
-      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">0</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">50</X>
+            <Y i:type="a:double">100</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">0</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName i:nil="true" />
+      </d2p1:Curve>
+      <d2p1:Direction>Right</d2p1:Direction>
+      <d2p1:PassCount>1</d2p1:PassCount>
+      <d2p1:PulsePercent>33</d2p1:PulsePercent>
+      <d2p1:PulseTime>1000</d2p1:PulseTime>
+      <d2p1:WipeByCount>false</d2p1:WipeByCount>
     </d1p1:anyType>
   </_dataModels>
   <_effectNodeSurrogates xmlns="">
-    <EffectNodeSurrogate>
-      <InstanceId>7a1e3cd3-7bbc-4337-812a-1ccdd70b0da4</InstanceId>
-      <StartTime>PT0S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>7a88cd34-a15a-48bb-8096-836194969896</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT11.14S</TimeSpan>
-      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
-    </EffectNodeSurrogate>
     <EffectNodeSurrogate>
       <InstanceId>dc358b99-401a-4e28-a51e-2685ca0e09d6</InstanceId>
       <StartTime>PT0.17S</StartTime>
@@ -145,6 +185,17 @@
       </TargetNodes>
       <TimeSpan>PT0.87S</TimeSpan>
       <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>1e3646ad-2a32-409f-b66c-7d82daa9108b</InstanceId>
+      <StartTime>PT0.28S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>fcfc2e5d-294c-4da7-891f-2cfa6c4b8d23</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT5.96S</TimeSpan>
+      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
       <InstanceId>f03216f9-f221-49bf-92b6-d5c70eacd78c</InstanceId>
@@ -232,14 +283,22 @@
     <ProviderType i:nil="true" />
     <SourceName i:nil="true" />
   </_selectedTimingProviderSurrogate>
-  <DefaultPlaybackEndTime>PT10.33S</DefaultPlaybackEndTime>
-  <DefaultPlaybackStartTime>-PT1.06S</DefaultPlaybackStartTime>
+  <DefaultPlaybackEndTime>PT6.6S</DefaultPlaybackEndTime>
+  <DefaultPlaybackStartTime>-PT0.98S</DefaultPlaybackStartTime>
   <DefaultRowHeight>32</DefaultRowHeight>
   <DefaultSplitterDistance>0</DefaultSplitterDistance>
   <MarkCollections />
   <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
     <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
       <d1p1:Key>1698901169</d1p1:Key>
+      <d1p1:Value>
+        <Expanded>true</Expanded>
+        <RowHeight>32</RowHeight>
+        <Visible>true</Visible>
+      </d1p1:Value>
+    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
+      <d1p1:Key>-301199424</d1p1:Key>
       <d1p1:Value>
         <Expanded>true</Expanded>
         <RowHeight>32</RowHeight>
