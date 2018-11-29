@@ -4317,12 +4317,12 @@
       <Data xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Output.Renard" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">03e706ee-0311-43ea-97d8-f1fcbfa43d79</ModuleInstanceId>
         <ModuleTypeId xmlns="">f66130a6-ff8a-48a7-bf1e-fac6cec2fc2c</ModuleTypeId>
-        <BaudRate>0</BaudRate>
-        <DataBits>0</DataBits>
+        <BaudRate>57600</BaudRate>
+        <DataBits>8</DataBits>
         <Parity>None</Parity>
-        <PortName i:nil="true" />
+        <PortName>COM3</PortName>
         <ProtocolVersion>1</ProtocolVersion>
-        <StopBits>None</StopBits>
+        <StopBits>One</StopBits>
         <WriteTimeout>500</WriteTimeout>
       </Data>
     </Module>
@@ -26652,14 +26652,14 @@
             </a:Shape>
           </a:DisplayItem>
         </DisplayItems>
-        <Height>1096</Height>
-        <Left>1912</Left>
+        <Height>874</Height>
+        <Left>1932</Left>
         <SaveLocations>true</SaveLocations>
         <SetupHeight>784</SetupHeight>
         <SetupLeft>183</SetupLeft>
         <SetupTop>133</SetupTop>
         <SetupWidth>1551</SetupWidth>
-        <Top>-8</Top>
+        <Top>18</Top>
         <Width>1936</Width>
       </VixenPreviewData>
     </Module>

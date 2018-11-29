@@ -192,6 +192,24 @@
       </d2p1:color>
       <d2p1:level>1</d2p1:level>
     </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Candle" i:type="d2p1:CandleData">
+      <ModuleInstanceId>80d0b3f5-cc94-4909-8ef6-2493ec2861e9</ModuleInstanceId>
+      <ModuleTypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ChangePercentage>0.2</d2p1:ChangePercentage>
+      <d2p1:ChangePercentageDeviationCap>0.5</d2p1:ChangePercentageDeviationCap>
+      <d2p1:Color xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4294967295</d3p1:value>
+      </d2p1:Color>
+      <d2p1:FlickerFrequency>20</d2p1:FlickerFrequency>
+      <d2p1:FlickerFrequencyDeviationCap>0.25</d2p1:FlickerFrequencyDeviationCap>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:MaxLevel>1</d2p1:MaxLevel>
+      <d2p1:MinLevel>0.1</d2p1:MinLevel>
+    </d1p1:anyType>
   </_dataModels>
   <_effectNodeSurrogates xmlns="">
     <EffectNodeSurrogate>
@@ -204,6 +222,17 @@
       </TargetNodes>
       <TimeSpan>PT1.03S</TimeSpan>
       <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>80d0b3f5-cc94-4909-8ef6-2493ec2861e9</InstanceId>
+      <StartTime>PT0S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>7a88cd34-a15a-48bb-8096-836194969896</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT8.97S</TimeSpan>
+      <TypeId>504582d2-43ac-472e-8885-ec4bcbf2b1f7</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
       <InstanceId>dc358b99-401a-4e28-a51e-2685ca0e09d6</InstanceId>
@@ -380,7 +409,7 @@
     <SourceName i:nil="true" />
   </_selectedTimingProviderSurrogate>
   <DefaultPlaybackEndTime>PT8.1S</DefaultPlaybackEndTime>
-  <DefaultPlaybackStartTime>-PT0.97S</DefaultPlaybackStartTime>
+  <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
   <DefaultRowHeight>32</DefaultRowHeight>
   <DefaultSplitterDistance>0</DefaultSplitterDistance>
   <MarkCollections />
