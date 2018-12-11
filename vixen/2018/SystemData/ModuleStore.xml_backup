@@ -25441,15 +25441,15 @@
             </a:Shape>
           </a:DisplayItem>
         </DisplayItems>
-        <Height>1056</Height>
-        <Left>-8</Left>
+        <Height>696</Height>
+        <Left>1148</Left>
         <SaveLocations>true</SaveLocations>
         <SetupHeight>784</SetupHeight>
         <SetupLeft>183</SetupLeft>
         <SetupTop>133</SetupTop>
         <SetupWidth>1551</SetupWidth>
-        <Top>-8</Top>
-        <Width>1936</Width>
+        <Top>381</Top>
+        <Width>1120</Width>
       </VixenPreviewData>
     </Module>
     <Module dataModelType="VixenModules.Property.Location.LocationData, Location" moduleType="3fb53423-dd2a-4719-b3e3-19aa6f062f62" moduleInstance="d814c08e-20ed-4784-94c0-5fb02d7d523d">
