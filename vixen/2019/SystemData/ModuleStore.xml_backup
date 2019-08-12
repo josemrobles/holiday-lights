@@ -260,6 +260,40 @@
               </b:Color>
             </a:Value>
           </a:KeyValueOfstringArrayOfColor3odnvp_PE>
+          <a:KeyValueOfstringArrayOfColor3odnvp_PE>
+            <a:Key>2-White</a:Key>
+            <a:Value xmlns:b="http://schemas.datacontract.org/2004/07/System.Drawing">
+              <b:Color>
+                <b:knownColor>0</b:knownColor>
+                <b:name i:nil="true" />
+                <b:state>2</b:state>
+                <b:value>4289969100</b:value>
+              </b:Color>
+              <b:Color>
+                <b:knownColor>0</b:knownColor>
+                <b:name i:nil="true" />
+                <b:state>2</b:state>
+                <b:value>4292467125</b:value>
+              </b:Color>
+            </a:Value>
+          </a:KeyValueOfstringArrayOfColor3odnvp_PE>
+          <a:KeyValueOfstringArrayOfColor3odnvp_PE>
+            <a:Key>Matchead</a:Key>
+            <a:Value xmlns:b="http://schemas.datacontract.org/2004/07/System.Drawing">
+              <b:Color>
+                <b:knownColor>0</b:knownColor>
+                <b:name i:nil="true" />
+                <b:state>2</b:state>
+                <b:value>4294901760</b:value>
+              </b:Color>
+              <b:Color>
+                <b:knownColor>0</b:knownColor>
+                <b:name i:nil="true" />
+                <b:state>2</b:state>
+                <b:value>4291986701</b:value>
+              </b:Color>
+            </a:Value>
+          </a:KeyValueOfstringArrayOfColor3odnvp_PE>
         </ColorSets>
       </ColorStaticData>
     </Module>
@@ -628,9 +662,18 @@
               <a:knownColor>0</a:knownColor>
               <a:name i:nil="true" />
               <a:state>2</a:state>
+              <a:value>4289969100</a:value>
+            </Color>
+            <Name>ffb3bbcc</Name>
+          </ColorBreakdownItem>
+          <ColorBreakdownItem>
+            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+              <a:knownColor>0</a:knownColor>
+              <a:name i:nil="true" />
+              <a:state>2</a:state>
               <a:value>4292467125</a:value>
             </Color>
-            <Name>Unnamed</Name>
+            <Name>ffd9d9b5</Name>
           </ColorBreakdownItem>
         </BreakdownItems>
         <MixColors>false</MixColors>
@@ -814,9 +857,18 @@
               <a:knownColor>0</a:knownColor>
               <a:name i:nil="true" />
               <a:state>2</a:state>
+              <a:value>4289969100</a:value>
+            </Color>
+            <Name>ffb3bbcc</Name>
+          </ColorBreakdownItem>
+          <ColorBreakdownItem>
+            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+              <a:knownColor>0</a:knownColor>
+              <a:name i:nil="true" />
+              <a:state>2</a:state>
               <a:value>4292467125</a:value>
             </Color>
-            <Name>Unnamed</Name>
+            <Name>ffd9d9b5</Name>
           </ColorBreakdownItem>
         </BreakdownItems>
         <MixColors>false</MixColors>
@@ -2277,7 +2329,7 @@
       <ColorData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Color" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">a9d97b78-e00b-4b84-9f07-117bc0b81829</ModuleInstanceId>
         <ModuleTypeId xmlns="">bff34727-6b88-4f87-82b7-68424498c725</ModuleTypeId>
-        <ColorSetName />
+        <ColorSetName>RGBWW</ColorSetName>
         <ElementColorType>SingleColor</ElementColorType>
         <SingleColor xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
           <a:knownColor>0</a:knownColor>
@@ -2291,13 +2343,13 @@
       <ColorData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Color" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">3a14c06a-05f1-4631-9ae6-23eb66684b07</ModuleInstanceId>
         <ModuleTypeId xmlns="">bff34727-6b88-4f87-82b7-68424498c725</ModuleTypeId>
-        <ColorSetName />
-        <ElementColorType>SingleColor</ElementColorType>
+        <ColorSetName>2-White</ColorSetName>
+        <ElementColorType>MultipleDiscreteColors</ElementColorType>
         <SingleColor xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
-          <a:knownColor>0</a:knownColor>
+          <a:knownColor>35</a:knownColor>
           <a:name i:nil="true" />
-          <a:state>2</a:state>
-          <a:value>4292467125</a:value>
+          <a:state>1</a:state>
+          <a:value>0</a:value>
         </SingleColor>
       </ColorData>
     </Module>
@@ -2507,9 +2559,18 @@
               <a:knownColor>0</a:knownColor>
               <a:name i:nil="true" />
               <a:state>2</a:state>
+              <a:value>4289969100</a:value>
+            </Color>
+            <Name>ffb3bbcc</Name>
+          </ColorBreakdownItem>
+          <ColorBreakdownItem>
+            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+              <a:knownColor>0</a:knownColor>
+              <a:name i:nil="true" />
+              <a:state>2</a:state>
               <a:value>4292467125</a:value>
             </Color>
-            <Name>Unnamed</Name>
+            <Name>ffd9d9b5</Name>
           </ColorBreakdownItem>
         </BreakdownItems>
         <MixColors>false</MixColors>
@@ -12724,16 +12785,16 @@
               <a:_strings i:nil="true" />
               <a:_XYRotation>0</a:_XYRotation>
               <a:_bottomRightPoint>
-                <a:X>171</a:X>
-                <a:Y>124</a:Y>
+                <a:X>175</a:X>
+                <a:Y>151</a:Y>
               </a:_bottomRightPoint>
               <a:_insideSize>40</a:_insideSize>
               <a:_pixelCount>40</a:_pixelCount>
               <a:_pointCount>5</a:_pointCount>
               <a:_stringDirection>Clockwise</a:_stringDirection>
               <a:_topLeftPoint>
-                <a:X>147</a:X>
-                <a:Y>98</a:Y>
+                <a:X>151</a:X>
+                <a:Y>125</a:Y>
               </a:_topLeftPoint>
             </a:Shape>
           </a:DisplayItem>
@@ -12907,16 +12968,16 @@
               <a:_strings i:nil="true" />
               <a:_XYRotation>0</a:_XYRotation>
               <a:_bottomRightPoint>
-                <a:X>304</a:X>
-                <a:Y>122</a:Y>
+                <a:X>286</a:X>
+                <a:Y>119</a:Y>
               </a:_bottomRightPoint>
               <a:_insideSize>40</a:_insideSize>
               <a:_pixelCount>40</a:_pixelCount>
               <a:_pointCount>5</a:_pointCount>
               <a:_stringDirection>Clockwise</a:_stringDirection>
               <a:_topLeftPoint>
-                <a:X>279</a:X>
-                <a:Y>99</a:Y>
+                <a:X>261</a:X>
+                <a:Y>96</a:Y>
               </a:_topLeftPoint>
             </a:Shape>
           </a:DisplayItem>
@@ -14368,16 +14429,16 @@
               <a:_strings i:nil="true" />
               <a:_XYRotation>0</a:_XYRotation>
               <a:_bottomRightPoint>
-                <a:X>186</a:X>
-                <a:Y>196</a:Y>
+                <a:X>74</a:X>
+                <a:Y>120</a:Y>
               </a:_bottomRightPoint>
               <a:_insideSize>40</a:_insideSize>
               <a:_pixelCount>40</a:_pixelCount>
               <a:_pointCount>5</a:_pointCount>
               <a:_stringDirection>Clockwise</a:_stringDirection>
               <a:_topLeftPoint>
-                <a:X>160</a:X>
-                <a:Y>169</a:Y>
+                <a:X>48</a:X>
+                <a:Y>93</a:Y>
               </a:_topLeftPoint>
             </a:Shape>
           </a:DisplayItem>
@@ -14551,16 +14612,16 @@
               <a:_strings i:nil="true" />
               <a:_XYRotation>0</a:_XYRotation>
               <a:_bottomRightPoint>
-                <a:X>299</a:X>
-                <a:Y>197</a:Y>
+                <a:X>420</a:X>
+                <a:Y>114</a:Y>
               </a:_bottomRightPoint>
               <a:_insideSize>40</a:_insideSize>
               <a:_pixelCount>40</a:_pixelCount>
               <a:_pointCount>5</a:_pointCount>
               <a:_stringDirection>Clockwise</a:_stringDirection>
               <a:_topLeftPoint>
-                <a:X>273</a:X>
-                <a:Y>170</a:Y>
+                <a:X>394</a:X>
+                <a:Y>87</a:Y>
               </a:_topLeftPoint>
             </a:Shape>
           </a:DisplayItem>
@@ -24433,15 +24494,15 @@
             </a:Shape>
           </a:DisplayItem>
         </DisplayItems>
-        <Height>1096</Height>
-        <Left>1912</Left>
+        <Height>629</Height>
+        <Left>115</Left>
         <SaveLocations>true</SaveLocations>
         <SetupHeight>879</SetupHeight>
-        <SetupLeft>156</SetupLeft>
-        <SetupTop>158</SetupTop>
+        <SetupLeft>172</SetupLeft>
+        <SetupTop>70</SetupTop>
         <SetupWidth>1624</SetupWidth>
-        <Top>-8</Top>
-        <Width>1936</Width>
+        <Top>217</Top>
+        <Width>766</Width>
       </VixenPreviewData>
     </Module>
     <Module dataModelType="VixenModules.Property.Location.LocationData, Location" moduleType="3fb53423-dd2a-4719-b3e3-19aa6f062f62" moduleInstance="d814c08e-20ed-4784-94c0-5fb02d7d523d">
@@ -25292,24 +25353,6 @@
         </SingleColor>
       </ColorData>
     </Module>
-    <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="5bfd8f24-0a13-43a5-b6ee-408b7ba166e7">
-      <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-        <ModuleInstanceId xmlns="">5bfd8f24-0a13-43a5-b6ee-408b7ba166e7</ModuleInstanceId>
-        <ModuleTypeId xmlns="">ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0</ModuleTypeId>
-        <BreakdownItems>
-          <ColorBreakdownItem>
-            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
-              <a:knownColor>0</a:knownColor>
-              <a:name i:nil="true" />
-              <a:state>2</a:state>
-              <a:value>4290478373</a:value>
-            </Color>
-            <Name>Unnamed</Name>
-          </ColorBreakdownItem>
-        </BreakdownItems>
-        <MixColors>false</MixColors>
-      </ColorBreakdownData>
-    </Module>
     <Module dataModelType="VixenModules.Property.Color.ColorData, Color" moduleType="bff34727-6b88-4f87-82b7-68424498c725" moduleInstance="b7c8f091-77ce-423b-8420-800f4e0198a1">
       <ColorData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Color" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">b7c8f091-77ce-423b-8420-800f4e0198a1</ModuleInstanceId>
@@ -25782,24 +25825,6 @@
         <MixColors>false</MixColors>
       </ColorBreakdownData>
     </Module>
-    <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="caf1af3c-92fc-497f-9804-3353480f19ea">
-      <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-        <ModuleInstanceId xmlns="">caf1af3c-92fc-497f-9804-3353480f19ea</ModuleInstanceId>
-        <ModuleTypeId xmlns="">ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0</ModuleTypeId>
-        <BreakdownItems>
-          <ColorBreakdownItem>
-            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
-              <a:knownColor>0</a:knownColor>
-              <a:name i:nil="true" />
-              <a:state>2</a:state>
-              <a:value>4294901760</a:value>
-            </Color>
-            <Name>Unnamed</Name>
-          </ColorBreakdownItem>
-        </BreakdownItems>
-        <MixColors>false</MixColors>
-      </ColorBreakdownData>
-    </Module>
     <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="377b9f36-594f-4ba8-8815-a407ee4c9ba6">
       <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">377b9f36-594f-4ba8-8815-a407ee4c9ba6</ModuleInstanceId>
@@ -25930,42 +25955,6 @@
               <a:value>4292467125</a:value>
             </Color>
             <Name>ffd9d9b5</Name>
-          </ColorBreakdownItem>
-        </BreakdownItems>
-        <MixColors>false</MixColors>
-      </ColorBreakdownData>
-    </Module>
-    <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="cec26cc7-3739-4849-8668-0dacd1cd4698">
-      <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-        <ModuleInstanceId xmlns="">cec26cc7-3739-4849-8668-0dacd1cd4698</ModuleInstanceId>
-        <ModuleTypeId xmlns="">ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0</ModuleTypeId>
-        <BreakdownItems>
-          <ColorBreakdownItem>
-            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
-              <a:knownColor>0</a:knownColor>
-              <a:name i:nil="true" />
-              <a:state>2</a:state>
-              <a:value>4294901760</a:value>
-            </Color>
-            <Name>Unnamed</Name>
-          </ColorBreakdownItem>
-        </BreakdownItems>
-        <MixColors>false</MixColors>
-      </ColorBreakdownData>
-    </Module>
-    <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="6748e6d0-3e8f-4b9d-a408-b9e5f3066976">
-      <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-        <ModuleInstanceId xmlns="">6748e6d0-3e8f-4b9d-a408-b9e5f3066976</ModuleInstanceId>
-        <ModuleTypeId xmlns="">ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0</ModuleTypeId>
-        <BreakdownItems>
-          <ColorBreakdownItem>
-            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
-              <a:knownColor>0</a:knownColor>
-              <a:name i:nil="true" />
-              <a:state>2</a:state>
-              <a:value>4294901760</a:value>
-            </Color>
-            <Name>Unnamed</Name>
           </ColorBreakdownItem>
         </BreakdownItems>
         <MixColors>false</MixColors>
@@ -26386,24 +26375,6 @@
         </SingleColor>
       </ColorData>
     </Module>
-    <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="5d96f26b-adae-46af-a455-f6258f08d1ba">
-      <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-        <ModuleInstanceId xmlns="">5d96f26b-adae-46af-a455-f6258f08d1ba</ModuleInstanceId>
-        <ModuleTypeId xmlns="">ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0</ModuleTypeId>
-        <BreakdownItems>
-          <ColorBreakdownItem>
-            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
-              <a:knownColor>0</a:knownColor>
-              <a:name i:nil="true" />
-              <a:state>2</a:state>
-              <a:value>4294901760</a:value>
-            </Color>
-            <Name>Unnamed</Name>
-          </ColorBreakdownItem>
-        </BreakdownItems>
-        <MixColors>false</MixColors>
-      </ColorBreakdownData>
-    </Module>
     <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="902e1f16-429b-4eb1-a522-e3124905925f">
       <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">902e1f16-429b-4eb1-a522-e3124905925f</ModuleInstanceId>
@@ -26462,8 +26433,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">feac1176-b3e5-4621-a763-96ff5f692cda</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>292</X>
-        <Y>181</Y>
+        <X>413</X>
+        <Y>98</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -26471,8 +26442,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">447ab052-9ad8-4694-acc9-59e4fbaea17b</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>179</X>
-        <Y>180</Y>
+        <X>67</X>
+        <Y>104</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -26480,8 +26451,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">40d67deb-ab32-46ad-8ed8-9c40de1e1796</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>297</X>
-        <Y>108</Y>
+        <X>279</X>
+        <Y>105</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -26503,8 +26474,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">87594c8c-3929-4f34-81f8-961048c21fd0</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>164</X>
-        <Y>109</Y>
+        <X>168</X>
+        <Y>136</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -26572,24 +26543,6 @@
         </SingleColor>
       </ColorData>
     </Module>
-    <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="2c656c17-174a-4db7-aa6a-f0fc2c5c6a38">
-      <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-        <ModuleInstanceId xmlns="">2c656c17-174a-4db7-aa6a-f0fc2c5c6a38</ModuleInstanceId>
-        <ModuleTypeId xmlns="">ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0</ModuleTypeId>
-        <BreakdownItems>
-          <ColorBreakdownItem>
-            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
-              <a:knownColor>0</a:knownColor>
-              <a:name i:nil="true" />
-              <a:state>2</a:state>
-              <a:value>4289969100</a:value>
-            </Color>
-            <Name>Unnamed</Name>
-          </ColorBreakdownItem>
-        </BreakdownItems>
-        <MixColors>false</MixColors>
-      </ColorBreakdownData>
-    </Module>
     <Module dataModelType="VixenModules.Property.Color.ColorData, Color" moduleType="bff34727-6b88-4f87-82b7-68424498c725" moduleInstance="7f639fa1-dbf6-4a7c-9d1f-04b9047471fc">
       <ColorData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Color" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">7f639fa1-dbf6-4a7c-9d1f-04b9047471fc</ModuleInstanceId>
@@ -26604,24 +26557,6 @@
         </SingleColor>
       </ColorData>
     </Module>
-    <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="ca6cd617-5b5c-462d-9caf-58e26a7f96b4">
-      <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-        <ModuleInstanceId xmlns="">ca6cd617-5b5c-462d-9caf-58e26a7f96b4</ModuleInstanceId>
-        <ModuleTypeId xmlns="">ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0</ModuleTypeId>
-        <BreakdownItems>
-          <ColorBreakdownItem>
-            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
-              <a:knownColor>0</a:knownColor>
-              <a:name i:nil="true" />
-              <a:state>2</a:state>
-              <a:value>4289969100</a:value>
-            </Color>
-            <Name>Unnamed</Name>
-          </ColorBreakdownItem>
-        </BreakdownItems>
-        <MixColors>false</MixColors>
-      </ColorBreakdownData>
-    </Module>
     <Module dataModelType="VixenModules.Property.Color.ColorData, Color" moduleType="bff34727-6b88-4f87-82b7-68424498c725" moduleInstance="11cd1f60-8aea-4bb6-88e2-cb3a8aaabd86">
       <ColorData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Color" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">11cd1f60-8aea-4bb6-88e2-cb3a8aaabd86</ModuleInstanceId>
@@ -26635,24 +26570,6 @@
           <a:value>4289969100</a:value>
         </SingleColor>
       </ColorData>
-    </Module>
-    <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="4cb8670e-460d-475f-9eee-95f0ceaaf652">
-      <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-        <ModuleInstanceId xmlns="">4cb8670e-460d-475f-9eee-95f0ceaaf652</ModuleInstanceId>
-        <ModuleTypeId xmlns="">ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0</ModuleTypeId>
-        <BreakdownItems>
-          <ColorBreakdownItem>
-            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
-              <a:knownColor>0</a:knownColor>
-              <a:name i:nil="true" />
-              <a:state>2</a:state>
-              <a:value>4289969100</a:value>
-            </Color>
-            <Name>Unnamed</Name>
-          </ColorBreakdownItem>
-        </BreakdownItems>
-        <MixColors>false</MixColors>
-      </ColorBreakdownData>
     </Module>
     <Module dataModelType="VixenModules.Property.Color.ColorData, Color" moduleType="bff34727-6b88-4f87-82b7-68424498c725" moduleInstance="a0614698-4aa9-4753-a06b-b4f6392e327f">
       <ColorData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Color" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
@@ -27001,24 +26918,6 @@
         </SingleColor>
       </ColorData>
     </Module>
-    <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="1a50f7d9-9cc6-4b94-bc84-c0a2d934e8a1">
-      <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-        <ModuleInstanceId xmlns="">1a50f7d9-9cc6-4b94-bc84-c0a2d934e8a1</ModuleInstanceId>
-        <ModuleTypeId xmlns="">ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0</ModuleTypeId>
-        <BreakdownItems>
-          <ColorBreakdownItem>
-            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
-              <a:knownColor>0</a:knownColor>
-              <a:name i:nil="true" />
-              <a:state>2</a:state>
-              <a:value>4290478373</a:value>
-            </Color>
-            <Name>Unnamed</Name>
-          </ColorBreakdownItem>
-        </BreakdownItems>
-        <MixColors>false</MixColors>
-      </ColorBreakdownData>
-    </Module>
     <Module dataModelType="VixenModules.Property.Color.ColorData, Color" moduleType="bff34727-6b88-4f87-82b7-68424498c725" moduleInstance="6d9a1157-46b9-4b89-9ae3-ac550b8c9bd6">
       <ColorData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Color" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">6d9a1157-46b9-4b89-9ae3-ac550b8c9bd6</ModuleInstanceId>
@@ -27033,24 +26932,6 @@
         </SingleColor>
       </ColorData>
     </Module>
-    <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="441d6d02-1f34-434a-be4f-35b08f2ea693">
-      <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-        <ModuleInstanceId xmlns="">441d6d02-1f34-434a-be4f-35b08f2ea693</ModuleInstanceId>
-        <ModuleTypeId xmlns="">ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0</ModuleTypeId>
-        <BreakdownItems>
-          <ColorBreakdownItem>
-            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
-              <a:knownColor>0</a:knownColor>
-              <a:name i:nil="true" />
-              <a:state>2</a:state>
-              <a:value>4290478373</a:value>
-            </Color>
-            <Name>Unnamed</Name>
-          </ColorBreakdownItem>
-        </BreakdownItems>
-        <MixColors>false</MixColors>
-      </ColorBreakdownData>
-    </Module>
     <Module dataModelType="VixenModules.Property.Color.ColorData, Color" moduleType="bff34727-6b88-4f87-82b7-68424498c725" moduleInstance="0d146513-b54f-4b5c-875d-5b029754c510">
       <ColorData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Color" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">0d146513-b54f-4b5c-875d-5b029754c510</ModuleInstanceId>
@@ -27064,24 +26945,6 @@
           <a:value>4290478373</a:value>
         </SingleColor>
       </ColorData>
-    </Module>
-    <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="9404d57a-ce43-49dc-a7f6-c95d49716a12">
-      <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-        <ModuleInstanceId xmlns="">9404d57a-ce43-49dc-a7f6-c95d49716a12</ModuleInstanceId>
-        <ModuleTypeId xmlns="">ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0</ModuleTypeId>
-        <BreakdownItems>
-          <ColorBreakdownItem>
-            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
-              <a:knownColor>0</a:knownColor>
-              <a:name i:nil="true" />
-              <a:state>2</a:state>
-              <a:value>4290478373</a:value>
-            </Color>
-            <Name>Unnamed</Name>
-          </ColorBreakdownItem>
-        </BreakdownItems>
-        <MixColors>false</MixColors>
-      </ColorBreakdownData>
     </Module>
     <Module dataModelType="VixenModules.Property.Color.ColorData, Color" moduleType="bff34727-6b88-4f87-82b7-68424498c725" moduleInstance="4cab5228-8e80-4c79-97ab-5f26fcbff13e">
       <ColorData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Color" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
@@ -27419,6 +27282,170 @@
         <Y>508</Y>
         <Z>1</Z>
       </LocationData>
+    </Module>
+    <Module dataModelType="VixenModules.Property.Color.ColorData, Color" moduleType="bff34727-6b88-4f87-82b7-68424498c725" moduleInstance="7d985bf6-638f-45b7-bb65-e0a76fadda23">
+      <ColorData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Color" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">7d985bf6-638f-45b7-bb65-e0a76fadda23</ModuleInstanceId>
+        <ModuleTypeId xmlns="">bff34727-6b88-4f87-82b7-68424498c725</ModuleTypeId>
+        <ColorSetName>Matchead</ColorSetName>
+        <ElementColorType>MultipleDiscreteColors</ElementColorType>
+        <SingleColor xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <a:knownColor>35</a:knownColor>
+          <a:name i:nil="true" />
+          <a:state>1</a:state>
+          <a:value>0</a:value>
+        </SingleColor>
+      </ColorData>
+    </Module>
+    <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="2f69a639-1bcc-45a4-87d1-68f6ae4a858d">
+      <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">2f69a639-1bcc-45a4-87d1-68f6ae4a858d</ModuleInstanceId>
+        <ModuleTypeId xmlns="">ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0</ModuleTypeId>
+        <BreakdownItems>
+          <ColorBreakdownItem>
+            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+              <a:knownColor>0</a:knownColor>
+              <a:name i:nil="true" />
+              <a:state>2</a:state>
+              <a:value>4294901760</a:value>
+            </Color>
+            <Name>ffff0000</Name>
+          </ColorBreakdownItem>
+          <ColorBreakdownItem>
+            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+              <a:knownColor>0</a:knownColor>
+              <a:name i:nil="true" />
+              <a:state>2</a:state>
+              <a:value>4291986701</a:value>
+            </Color>
+            <Name>ffd2850d</Name>
+          </ColorBreakdownItem>
+        </BreakdownItems>
+        <MixColors>false</MixColors>
+      </ColorBreakdownData>
+    </Module>
+    <Module dataModelType="VixenModules.Property.Color.ColorData, Color" moduleType="bff34727-6b88-4f87-82b7-68424498c725" moduleInstance="e69d918f-4014-49cc-85a0-7934e2103095">
+      <ColorData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Color" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">e69d918f-4014-49cc-85a0-7934e2103095</ModuleInstanceId>
+        <ModuleTypeId xmlns="">bff34727-6b88-4f87-82b7-68424498c725</ModuleTypeId>
+        <ColorSetName>Matchead</ColorSetName>
+        <ElementColorType>MultipleDiscreteColors</ElementColorType>
+        <SingleColor xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <a:knownColor>35</a:knownColor>
+          <a:name i:nil="true" />
+          <a:state>1</a:state>
+          <a:value>0</a:value>
+        </SingleColor>
+      </ColorData>
+    </Module>
+    <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="6563c2bd-c7fb-401a-afea-088d3aa77cd6">
+      <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">6563c2bd-c7fb-401a-afea-088d3aa77cd6</ModuleInstanceId>
+        <ModuleTypeId xmlns="">ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0</ModuleTypeId>
+        <BreakdownItems>
+          <ColorBreakdownItem>
+            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+              <a:knownColor>0</a:knownColor>
+              <a:name i:nil="true" />
+              <a:state>2</a:state>
+              <a:value>4294901760</a:value>
+            </Color>
+            <Name>ffff0000</Name>
+          </ColorBreakdownItem>
+          <ColorBreakdownItem>
+            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+              <a:knownColor>0</a:knownColor>
+              <a:name i:nil="true" />
+              <a:state>2</a:state>
+              <a:value>4291986701</a:value>
+            </Color>
+            <Name>ffd2850d</Name>
+          </ColorBreakdownItem>
+        </BreakdownItems>
+        <MixColors>false</MixColors>
+      </ColorBreakdownData>
+    </Module>
+    <Module dataModelType="VixenModules.Property.Color.ColorData, Color" moduleType="bff34727-6b88-4f87-82b7-68424498c725" moduleInstance="c6c5b2fb-af32-40bc-8eaf-434e36f3af67">
+      <ColorData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Color" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">c6c5b2fb-af32-40bc-8eaf-434e36f3af67</ModuleInstanceId>
+        <ModuleTypeId xmlns="">bff34727-6b88-4f87-82b7-68424498c725</ModuleTypeId>
+        <ColorSetName>Matchead</ColorSetName>
+        <ElementColorType>MultipleDiscreteColors</ElementColorType>
+        <SingleColor xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <a:knownColor>35</a:knownColor>
+          <a:name i:nil="true" />
+          <a:state>1</a:state>
+          <a:value>0</a:value>
+        </SingleColor>
+      </ColorData>
+    </Module>
+    <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="094fa624-32d0-4c47-9965-6398ff8a795e">
+      <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">094fa624-32d0-4c47-9965-6398ff8a795e</ModuleInstanceId>
+        <ModuleTypeId xmlns="">ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0</ModuleTypeId>
+        <BreakdownItems>
+          <ColorBreakdownItem>
+            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+              <a:knownColor>0</a:knownColor>
+              <a:name i:nil="true" />
+              <a:state>2</a:state>
+              <a:value>4294901760</a:value>
+            </Color>
+            <Name>ffff0000</Name>
+          </ColorBreakdownItem>
+          <ColorBreakdownItem>
+            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+              <a:knownColor>0</a:knownColor>
+              <a:name i:nil="true" />
+              <a:state>2</a:state>
+              <a:value>4291986701</a:value>
+            </Color>
+            <Name>ffd2850d</Name>
+          </ColorBreakdownItem>
+        </BreakdownItems>
+        <MixColors>false</MixColors>
+      </ColorBreakdownData>
+    </Module>
+    <Module dataModelType="VixenModules.Property.Color.ColorData, Color" moduleType="bff34727-6b88-4f87-82b7-68424498c725" moduleInstance="0d483495-b6d8-4850-aabd-a84cb8c6d91d">
+      <ColorData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Color" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">0d483495-b6d8-4850-aabd-a84cb8c6d91d</ModuleInstanceId>
+        <ModuleTypeId xmlns="">bff34727-6b88-4f87-82b7-68424498c725</ModuleTypeId>
+        <ColorSetName>Matchead</ColorSetName>
+        <ElementColorType>MultipleDiscreteColors</ElementColorType>
+        <SingleColor xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <a:knownColor>35</a:knownColor>
+          <a:name i:nil="true" />
+          <a:state>1</a:state>
+          <a:value>0</a:value>
+        </SingleColor>
+      </ColorData>
+    </Module>
+    <Module dataModelType="VixenModules.OutputFilter.ColorBreakdown.ColorBreakdownData, ColorBreakdown" moduleType="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" moduleInstance="bdd944c4-9989-437c-b03e-8639e6b1262a">
+      <ColorBreakdownData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.OutputFilter.ColorBreakdown" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">bdd944c4-9989-437c-b03e-8639e6b1262a</ModuleInstanceId>
+        <ModuleTypeId xmlns="">ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0</ModuleTypeId>
+        <BreakdownItems>
+          <ColorBreakdownItem>
+            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+              <a:knownColor>0</a:knownColor>
+              <a:name i:nil="true" />
+              <a:state>2</a:state>
+              <a:value>4294901760</a:value>
+            </Color>
+            <Name>ffff0000</Name>
+          </ColorBreakdownItem>
+          <ColorBreakdownItem>
+            <Color xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+              <a:knownColor>0</a:knownColor>
+              <a:name i:nil="true" />
+              <a:state>2</a:state>
+              <a:value>4291986701</a:value>
+            </Color>
+            <Name>ffd2850d</Name>
+          </ColorBreakdownItem>
+        </BreakdownItems>
+        <MixColors>false</MixColors>
+      </ColorBreakdownData>
     </Module>
   </ModuleData>
 </ModuleStore>
