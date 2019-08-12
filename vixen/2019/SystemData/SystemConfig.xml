@@ -1177,5 +1177,7 @@
     <Patch componentId="7c664785-215c-4619-badb-cd005997978f" sourceId="0b42740d-1fbb-4cb6-8303-c31e3b30774e" output="0" />
     <Patch componentId="0a4c06da-485c-4a03-b7db-a1489fcb75bb" sourceId="88808750-d385-41df-b387-19fd2bdf0ba4" output="0" />
   </Patches>
-  <DisabledDevices />
+  <DisabledDevices>
+    <Device id="ba25e5ec-5eb4-4462-aa4f-83afdd179888" />
+  </DisabledDevices>
 </SystemConfig>
