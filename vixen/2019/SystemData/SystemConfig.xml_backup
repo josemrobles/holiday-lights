@@ -21,10 +21,10 @@
     <Channel id="4de913f3-80a3-4b02-82b3-8f23d2c2e8bc" name="Palm_03-bottom" />
     <Channel id="0f8c71b6-f301-4918-a4f0-abb490ba7507" name="Palm_03-cool_white" />
     <Channel id="e201917f-a90a-4323-a5ad-6be660ae86e6" name="Palm_03-multi_color" />
-    <Channel id="e45fa0f1-ef4c-4115-8aaf-4445c05b284b" name="MiniTree_02" />
-    <Channel id="816aeaf0-575a-4c2c-9bd2-9966e11eaee3" name="MiniTree_01" />
-    <Channel id="01262e2a-0cd7-4405-9d89-7cf06cd82cc0" name="MiniTree_03" />
-    <Channel id="560c63d6-73ef-4af5-912a-a018dce2672f" name="MiniTree_04" />
+    <Channel id="e45fa0f1-ef4c-4115-8aaf-4445c05b284b" name="MiniTree_04" />
+    <Channel id="816aeaf0-575a-4c2c-9bd2-9966e11eaee3" name="MiniTree_03" />
+    <Channel id="01262e2a-0cd7-4405-9d89-7cf06cd82cc0" name="MiniTree_05" />
+    <Channel id="560c63d6-73ef-4af5-912a-a018dce2672f" name="MiniTree_06" />
     <Channel id="0b3e8db9-0987-4990-a7ef-a415f2685939" name="Icicles" />
     <Channel id="009d1180-d62a-433b-bd1c-041f6c42a9c6" name="Roofline" />
     <Channel id="d4413e9d-451e-4e9d-ac9c-76e54aa16bc7" name="Jasmine-Window-R-Wreath" />
@@ -45,10 +45,10 @@
     <Channel id="202b3a13-78cb-41af-9178-f9d48bf43acd" name="Tall-Bush-R" />
     <Channel id="c6843bc9-e6df-442f-b065-61a211dc6d7d" name="Tall-Bush-L" />
     <Channel id="9b0eacb0-2e49-4478-bf1e-75db8a0fd911" name="Center-Bushes" />
-    <Channel id="79209e46-d22d-4ead-bf02-ec5bf7813a3f" name="MiniTree_05" />
-    <Channel id="a76f37bb-94a7-461a-a43b-0a37168297ee" name="MiniTree_06" />
-    <Channel id="36d3cada-c47d-4824-9ab6-ceb534b37556" name="Right Medium Tree" />
-    <Channel id="c3036650-7985-4bc2-8741-f38b57f31391" name="Left Medium Tree" />
+    <Channel id="79209e46-d22d-4ead-bf02-ec5bf7813a3f" name="MiniTree_07" />
+    <Channel id="a76f37bb-94a7-461a-a43b-0a37168297ee" name="MiniTree_08" />
+    <Channel id="c628cf73-d2c8-47c4-8f62-1ebe0b3074ae" name="Tree_02" />
+    <Channel id="bf638c74-a86b-49f3-83a7-ade567d29b06" name="Tree_01" />
     <Channel id="5245214e-d6bd-4e07-804f-814927d65c5e" name="Merry Christmas Sign" />
     <Channel id="c8d7b012-83f8-479b-a53e-d4732bcbf6c2" name="TuneToSign" />
     <Channel id="4cb515c8-f3d2-4445-a9b8-0b53e6893cb4" name="MedTree_02" />
@@ -68,28 +68,9 @@
     <Channel id="e5f4d055-13d3-4f06-8f75-7a6a6a8ce23e" name="Segment_06" />
     <Channel id="0b42740d-1fbb-4cb6-8303-c31e3b30774e" name="Segment_07" />
     <Channel id="88808750-d385-41df-b387-19fd2bdf0ba4" name="Segment_08" />
-    <Channel id="7828580c-ffb0-48ef-bd29-f05d3717ff2b" name="Cupid Spare_-9" />
-    <Channel id="10712bcd-06bb-4f44-811f-95f55fc038bc" name="Cupid Spare_-10" />
-    <Channel id="440c5cb5-b49a-4fa0-83fd-4c68be8b9cdd" name="Cupid Spare_-8" />
-    <Channel id="1cb063cf-9a15-4e25-a754-ff82f425db54" name="Cupid Spare_-7" />
-    <Channel id="e312d866-4b75-40d9-ba06-b2e330aef003" name="Cupid Spare_-6" />
-    <Channel id="e8044f79-ba4d-4cdd-89b2-88748d53b85c" name="Cupid Spare_-5" />
-    <Channel id="6d6eb858-588f-4211-b771-a7ac8103ba51" name="Cupid Spare_-4" />
-    <Channel id="54de644a-bab4-4398-9981-62c3c08cc27a" name="Cupid Spare_-3" />
-    <Channel id="762ba330-911b-4e24-83ca-a11e6483fdbb" name="Cupid Spare_-2" />
-    <Channel id="0c9724b7-349a-4c46-81a1-15ee0512d1e3" name="Cupid Spare_-1" />
-    <Channel id="a58b0634-c26f-47f8-87bf-5c70924e2905" name="Cupid Spare_-11" />
-    <Channel id="9f4847e9-d9e7-4b8a-a105-3e71eb219e6f" name="Cupid Spare_-12" />
-    <Channel id="5d787bf3-44df-45e8-bd67-a4d1fbd029d0" name="Cupid Spare_-13" />
-    <Channel id="1f407b46-9492-4caf-9115-925cb521ba6d" name="Cupid Spare_-14" />
-    <Channel id="db5bbbde-1354-4284-a0c0-fcb36ee24de8" name="Cupid Spare_-15" />
-    <Channel id="08116641-ae53-4bc5-b644-7d81252fc338" name="Cupid Spare_-16" />
-    <Channel id="25371362-4636-44c0-b7a3-9b9f5098e8b4" name="Cupid Spare_-17" />
-    <Channel id="b5a51c57-0378-4a53-84fe-a656f87eb589" name="Cupid Spare_-18" />
-    <Channel id="37f7afbf-377c-472d-ba21-6981bfa9f7e7" name="Cupid Spare_-19" />
-    <Channel id="83acb5bc-9b8f-4ebd-8425-e6e214cb8233" name="Cupid Spare_-20" />
-    <Channel id="820f02d2-01f0-42c1-b623-6ab48fdf6eb0" name="Mini Tree 01" />
-    <Channel id="d674c3ca-62f8-4fd8-81ca-a26c4ad2064f" name="Mini Tree 02" />
+    <Channel id="f2e22c93-409b-462e-b4ae-b4abc73cf139" name="Tree_04" />
+    <Channel id="820f02d2-01f0-42c1-b623-6ab48fdf6eb0" name="MiniTree_02" />
+    <Channel id="d674c3ca-62f8-4fd8-81ca-a26c4ad2064f" name="MiniTree_01" />
     <Channel id="2acf64f8-93bc-42f2-9d18-61131d9be933" name="thingy 1" />
     <Channel id="fda5d30d-4cec-46b0-a6f6-0e33638c92c2" name="thing 2" />
     <Channel id="babf5ea9-6e5e-431c-97da-d82d499ac80d" name="Jasmine_Room-SPARE_-1" />
@@ -98,10 +79,11 @@
     <Channel id="1b910180-2b4d-4a96-b2a2-579dada7d91e" name="Jasmine_Room-SPARE_-4" />
     <Channel id="00a3a8dd-7d2b-4f30-be93-64b1a7ade8fd" name="Jasmine_Room-SPARE_-5" />
     <Channel id="a019a546-d473-4e29-ab4e-068edc046cb6" name="Jasmine_Room-SPARE_-6" />
-    <Channel id="4b15876b-e4b8-4083-8fa6-7cfb0f729671" name="Cupid Spare_-21" />
-    <Channel id="445ef713-17c9-4976-9aa8-04ec5b712bc0" name="Cupid Spare_-22" />
-    <Channel id="218941a9-694c-43a5-9f40-a55fc5ba8a29" name="Cupid Spare_-24" />
-    <Channel id="28281763-f5d7-405c-a7ce-44a94a5f4a80" name="Cupid Spare_-23" />
+    <Channel id="909ec06b-95ab-47c5-a6db-2c46c405f431" name="CandyCane-04" />
+    <Channel id="75c39c31-b64f-4504-8f8f-b220dbe22a12" name="CandyCane-03" />
+    <Channel id="ca03df6e-4368-46c5-90dd-e258b2d0f308" name="CandyCane-01" />
+    <Channel id="6030b79a-b393-45d4-b06c-49331e96dc51" name="CandyCane-02" />
+    <Channel id="a56068be-5b95-4bc0-b7b3-d0e0f1e5939c" name="Tree_03" />
   </Channels>
   <Nodes>
     <Node name="Blitzen" id="66d36974-6c18-4338-bb9c-bbe75a211ef6">
@@ -209,16 +191,6 @@
             <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="d2081944-715e-44f7-be56-2c6c4f7e1daa" />
           </Properties>
         </Node>
-        <Node name="Mini Tree 01" id="10bcf757-2e9c-4001-afff-b0e2c9af8178" channelId="820f02d2-01f0-42c1-b623-6ab48fdf6eb0">
-          <Properties>
-            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="505bc10d-ae73-4ae9-916d-3d288f073725" />
-          </Properties>
-        </Node>
-        <Node name="Mini Tree 02" id="30a06c20-5bb4-43b2-9644-469df86a24ee" channelId="d674c3ca-62f8-4fd8-81ca-a26c4ad2064f">
-          <Properties>
-            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="f287f0b7-abfa-4b0e-891d-16d2993782c1" />
-          </Properties>
-        </Node>
         <Node name="Bushes" id="8c0017f2-d6c0-418e-8c34-2478d70e07e5" channelId="5ccd3a10-8c40-4817-a644-cefe04af2dae">
           <Properties>
             <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="cdab8ee9-0b81-4e9d-beee-9c1b4ef94c52" />
@@ -230,11 +202,13 @@
         <Node name="MedTree_01" id="cd48d1c7-717e-4fc9-8325-cfcd629d6d54" channelId="cf482544-9fe0-4a72-92d3-ab6b74a1aed5">
           <Properties>
             <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="f9874794-8431-4795-b7a8-8ed0cec9290b" />
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="b30b4aa7-7e99-414d-a9e2-c86f0e8a80d5" />
           </Properties>
         </Node>
         <Node name="MedTree_02" id="66f95a6f-39aa-498e-bf3a-b9360c982dda" channelId="4cb515c8-f3d2-4445-a9b8-0b53e6893cb4">
           <Properties>
             <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="ab8254f2-bcc7-494f-88ea-060aa546bb0d" />
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="eef71d52-2b65-4ecd-86bd-9c8e95110a54" />
           </Properties>
         </Node>
       </Node>
@@ -263,6 +237,32 @@
         </Node>
         <Node name="Jasmine_Room-SPARE_-5" id="d4403d1e-2406-44e3-a8ec-b979924f7b13" channelId="00a3a8dd-7d2b-4f30-be93-64b1a7ade8fd" />
         <Node name="Jasmine_Room-SPARE_-6" id="0089e9db-90ff-444b-b902-7d790b573f40" channelId="a019a546-d473-4e29-ab4e-068edc046cb6" />
+      </Node>
+      <Node name="Candy Canes" id="db2b20af-e19c-4259-8e15-b65235545e40">
+        <Node name="CandyCane-01" id="bac6c9bc-7a9d-40c4-8ea3-1467b0c2d05c" channelId="ca03df6e-4368-46c5-90dd-e258b2d0f308">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="540785e8-dcb0-4523-b406-8cf1f63f5a8e" />
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="eb5af3e7-b650-448f-b50e-dc703602871d" />
+          </Properties>
+        </Node>
+        <Node name="CandyCane-02" id="82ca00c2-b9be-4f33-ac62-922f8cbbe43a" channelId="6030b79a-b393-45d4-b06c-49331e96dc51">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="9e84fa3f-aeb8-4d33-95bd-1c804d4896ed" />
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="7ea6a495-0620-45be-9f06-e39ce445d8be" />
+          </Properties>
+        </Node>
+        <Node name="CandyCane-03" id="95468861-dc58-45c0-8cd9-ce8ac11cf0b0" channelId="75c39c31-b64f-4504-8f8f-b220dbe22a12">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="8ffe071f-aabd-403c-b618-470c9491591a" />
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="b09668e3-c5b2-4812-b2ce-e4b5853b39bc" />
+          </Properties>
+        </Node>
+        <Node name="CandyCane-04" id="9759cdfd-b223-43ba-a923-a8956794ede9" channelId="909ec06b-95ab-47c5-a6db-2c46c405f431">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="2b5f1288-11ef-434e-b037-e72e36b867fa" />
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="5bbefe3f-31ed-43bb-a618-7fef7d2e3a1b" />
+          </Properties>
+        </Node>
       </Node>
     </Node>
     <Node name="Cupid" id="913faf06-4b54-4cbb-a199-38f4ee6ec532">
@@ -386,6 +386,7 @@
           <Node name="Palm_04-Matchead" id="19eba2a7-7f6b-4e14-9252-b3f9497031e3" channelId="cc7c0668-2392-4ce5-94d3-4ef446588f87">
             <Properties>
               <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="0d483495-b6d8-4850-aabd-a84cb8c6d91d" />
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="54a4b1b9-fb67-40cc-bcd1-c377e429e767" />
             </Properties>
           </Node>
           <Node name="EntireTree" id="5494b9bb-1073-47b7-9b54-3a84c0f107c9" channelId="c5ce9a3b-6115-4885-b4ed-beb2894ec9f4">
@@ -397,50 +398,52 @@
         </Node>
       </Node>
       <Node name="Tree Line" id="0a442cc7-0648-4d6d-b761-654cc8982453">
-        <Node name="Left Medium Tree" id="59b8f4a4-b7df-474b-8bb8-9dcd2deec3ac" channelId="c3036650-7985-4bc2-8741-f38b57f31391">
+        <Node name="MiniTree_01" id="30a06c20-5bb4-43b2-9644-469df86a24ee" channelId="d674c3ca-62f8-4fd8-81ca-a26c4ad2064f">
           <Properties>
-            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="dbb5b963-4c72-4512-bf61-fb4a6f9c1e6e" />
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="f287f0b7-abfa-4b0e-891d-16d2993782c1" />
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="9c15baad-f73d-4bdd-8378-aecdae9bcd1e" />
           </Properties>
         </Node>
-        <Node name="MiniTree_01" id="6ab089ff-2d6a-4634-8891-39df25ddca52" channelId="816aeaf0-575a-4c2c-9bd2-9966e11eaee3">
+        <Node name="MiniTree_02" id="10bcf757-2e9c-4001-afff-b0e2c9af8178" channelId="820f02d2-01f0-42c1-b623-6ab48fdf6eb0">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="505bc10d-ae73-4ae9-916d-3d288f073725" />
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="6e264967-aa9e-4b5e-b493-3085c21e5b66" />
+          </Properties>
+        </Node>
+        <Node name="MiniTree_03" id="6ab089ff-2d6a-4634-8891-39df25ddca52" channelId="816aeaf0-575a-4c2c-9bd2-9966e11eaee3">
           <Properties>
             <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="a25f9b6c-d686-4b0b-9bf9-319731903360" />
             <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="8955893e-12fa-4d83-ae41-4b78469a78a1" />
           </Properties>
         </Node>
-        <Node name="MiniTree_02" id="84893790-1fd1-49f8-81e7-446ce1c1c300" channelId="e45fa0f1-ef4c-4115-8aaf-4445c05b284b">
+        <Node name="MiniTree_04" id="84893790-1fd1-49f8-81e7-446ce1c1c300" channelId="e45fa0f1-ef4c-4115-8aaf-4445c05b284b">
           <Properties>
             <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="63bbc62c-b3e6-4aa6-a87c-55863d66fd21" />
             <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="059e6f85-1897-48d8-92f4-6385d46e5a89" />
           </Properties>
         </Node>
-        <Node name="MiniTree_03" id="7e6d2b74-0d15-44d8-b6dd-8a5dd9c1dbff" channelId="01262e2a-0cd7-4405-9d89-7cf06cd82cc0">
+        <Node name="MiniTree_05" id="7e6d2b74-0d15-44d8-b6dd-8a5dd9c1dbff" channelId="01262e2a-0cd7-4405-9d89-7cf06cd82cc0">
           <Properties>
             <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="3b779e7b-dcbb-45e1-9ddc-d5bd24181ff2" />
             <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="eedee290-cca0-403f-9e1e-d07d8c7ed9d1" />
           </Properties>
         </Node>
-        <Node name="MiniTree_04" id="599cfc1e-80ee-4001-a071-a05d3b7c02d5" channelId="560c63d6-73ef-4af5-912a-a018dce2672f">
+        <Node name="MiniTree_06" id="599cfc1e-80ee-4001-a071-a05d3b7c02d5" channelId="560c63d6-73ef-4af5-912a-a018dce2672f">
           <Properties>
             <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="7d651af4-4b34-473d-8f2c-85fb2f676047" />
             <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="37319ebe-0434-44d5-90bc-5bb4eef99ad8" />
           </Properties>
         </Node>
-        <Node name="MiniTree_05" id="235ee413-f8c4-4257-b5d2-437a89e85945" channelId="79209e46-d22d-4ead-bf02-ec5bf7813a3f">
+        <Node name="MiniTree_07" id="235ee413-f8c4-4257-b5d2-437a89e85945" channelId="79209e46-d22d-4ead-bf02-ec5bf7813a3f">
           <Properties>
             <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="a6fbd3d7-a719-412e-8002-756dc9aafdf8" />
             <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="db9eab53-1a9e-4429-82a9-58e35b53f86f" />
           </Properties>
         </Node>
-        <Node name="MiniTree_06" id="ba16e91d-c22c-42c9-8d1c-95fe6b09ad0f" channelId="a76f37bb-94a7-461a-a43b-0a37168297ee">
+        <Node name="MiniTree_08" id="ba16e91d-c22c-42c9-8d1c-95fe6b09ad0f" channelId="a76f37bb-94a7-461a-a43b-0a37168297ee">
           <Properties>
             <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="72843a8d-f4c8-4035-a956-16f3dc735a23" />
             <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="08e2b80a-03d8-4908-ab77-2a5604346f12" />
-          </Properties>
-        </Node>
-        <Node name="Right Medium Tree" id="177b3db1-e7ab-4830-96eb-42957ad01e2b" channelId="36d3cada-c47d-4824-9ab6-ceb534b37556">
-          <Properties>
-            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="e1572d60-2de8-4c92-b0e5-f7ad6bc4a803" />
           </Properties>
         </Node>
       </Node>
@@ -506,31 +509,31 @@
           </Node>
         </Node>
       </Node>
-      <Node name="Cupid Spares" id="7df8c763-d841-42d0-88fa-2822f9d805eb">
-        <Node name="Cupid Spare_-1" id="0c38c9c0-004a-45d3-91fd-a9e63a54c93b" channelId="0c9724b7-349a-4c46-81a1-15ee0512d1e3" />
-        <Node name="Cupid Spare_-2" id="116a622c-9e52-41cf-8375-12b8cc5442ae" channelId="762ba330-911b-4e24-83ca-a11e6483fdbb" />
-        <Node name="Cupid Spare_-3" id="83f2a43a-0d05-45b4-8124-28b9c6859a14" channelId="54de644a-bab4-4398-9981-62c3c08cc27a" />
-        <Node name="Cupid Spare_-4" id="020667d7-d101-48a5-b4fc-71d1d393d81b" channelId="6d6eb858-588f-4211-b771-a7ac8103ba51" />
-        <Node name="Cupid Spare_-5" id="f0f1bc9b-271a-4025-8d73-64f3555bda97" channelId="e8044f79-ba4d-4cdd-89b2-88748d53b85c" />
-        <Node name="Cupid Spare_-6" id="21fc4142-f5a9-40f5-8e6f-7c91909f9101" channelId="e312d866-4b75-40d9-ba06-b2e330aef003" />
-        <Node name="Cupid Spare_-7" id="0fc6f015-b429-4a68-9b6f-f738b2aa6ae5" channelId="1cb063cf-9a15-4e25-a754-ff82f425db54" />
-        <Node name="Cupid Spare_-8" id="2da3f139-6794-49dd-b9c6-325e463a64c7" channelId="440c5cb5-b49a-4fa0-83fd-4c68be8b9cdd" />
-        <Node name="Cupid Spare_-9" id="913fa7ec-0f8c-4435-aa46-32d4756be737" channelId="7828580c-ffb0-48ef-bd29-f05d3717ff2b" />
-        <Node name="Cupid Spare_-10" id="a24aaa5e-c359-432f-a844-9854219df3a7" channelId="10712bcd-06bb-4f44-811f-95f55fc038bc" />
-        <Node name="Cupid Spare_-11" id="62ed6e74-cc90-412f-bdf1-983ad98648ac" channelId="a58b0634-c26f-47f8-87bf-5c70924e2905" />
-        <Node name="Cupid Spare_-12" id="37debdf1-563f-4c16-9fb0-361afabd105b" channelId="9f4847e9-d9e7-4b8a-a105-3e71eb219e6f" />
-        <Node name="Cupid Spare_-13" id="bec4ce38-a190-43f8-b5f1-56796c67bd37" channelId="5d787bf3-44df-45e8-bd67-a4d1fbd029d0" />
-        <Node name="Cupid Spare_-14" id="33739333-e866-442a-8b20-76c778a1d997" channelId="1f407b46-9492-4caf-9115-925cb521ba6d" />
-        <Node name="Cupid Spare_-15" id="81a26829-6033-443a-a40a-a48832d087af" channelId="db5bbbde-1354-4284-a0c0-fcb36ee24de8" />
-        <Node name="Cupid Spare_-16" id="2968a0b0-c65c-4216-bacc-602274ec308f" channelId="08116641-ae53-4bc5-b644-7d81252fc338" />
-        <Node name="Cupid Spare_-17" id="6f976def-ea78-4b62-80d7-5721941b1737" channelId="25371362-4636-44c0-b7a3-9b9f5098e8b4" />
-        <Node name="Cupid Spare_-18" id="b0717932-a456-448d-b953-9ed1580e76cf" channelId="b5a51c57-0378-4a53-84fe-a656f87eb589" />
-        <Node name="Cupid Spare_-19" id="35a1c27f-4d88-4f02-b07f-18aa9b6d5013" channelId="37f7afbf-377c-472d-ba21-6981bfa9f7e7" />
-        <Node name="Cupid Spare_-20" id="fd7ec5af-dc96-4d7d-bf58-7e36328601e4" channelId="83acb5bc-9b8f-4ebd-8425-e6e214cb8233" />
-        <Node name="Cupid Spare_-21" id="d88e4d50-aa12-48cd-9d4d-75cd87aa08b5" channelId="4b15876b-e4b8-4083-8fa6-7cfb0f729671" />
-        <Node name="Cupid Spare_-22" id="e35ee628-cbb4-4c26-94a5-59ea72ff7abd" channelId="445ef713-17c9-4976-9aa8-04ec5b712bc0" />
-        <Node name="Cupid Spare_-24" id="f9f751e0-e584-471e-a85d-be88db3458e1" channelId="218941a9-694c-43a5-9f40-a55fc5ba8a29" />
-        <Node name="Cupid Spare_-23" id="ea53aa11-6af4-4dde-b23b-65eb4b9b93a9" channelId="28281763-f5d7-405c-a7ce-44a94a5f4a80" />
+      <Node name="Christmas Trees" id="ca0a4c1a-0735-4065-8565-79778e17d131">
+        <Node name="Tree_01" id="af649a94-bea5-43d2-aafd-4933b8f4b7fa" channelId="bf638c74-a86b-49f3-83a7-ade567d29b06">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="6e1f5ab6-84b2-4ad3-b374-4c0776249465" />
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="e45b0b22-c772-4b9a-b6ce-3b31feff6501" />
+          </Properties>
+        </Node>
+        <Node name="Tree_02" id="ca855814-b6ae-4470-9bab-d120ed76fed9" channelId="c628cf73-d2c8-47c4-8f62-1ebe0b3074ae">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="70ddd90a-5069-4784-9584-89c038ce34f1" />
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="2b4e1da0-7c4b-4a1a-8fc5-6ff45fa0b3cf" />
+          </Properties>
+        </Node>
+        <Node name="Tree_03" id="f824d212-b3e3-42c8-af05-9b94d09089df" channelId="a56068be-5b95-4bc0-b7b3-d0e0f1e5939c">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="86575dcb-0ff7-49cb-a8c4-1d0cba536e82" />
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="db062ce0-1afa-4a5d-b94c-f5ba983e93ff" />
+          </Properties>
+        </Node>
+        <Node name="Tree_04" id="0daa7445-7fc7-4971-afb2-dd4e2753d587" channelId="f2e22c93-409b-462e-b4ae-b4abc73cf139">
+          <Properties>
+            <Property typeId="bff34727-6b88-4f87-82b7-68424498c725" instanceId="ba229ad6-37ff-4b37-a2ca-c67de04a9aa6" />
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="29df74e5-eb96-4fa0-a244-700b47a5a005" />
+          </Properties>
+        </Node>
       </Node>
     </Node>
     <Node name="Dancer" id="6093cd07-e27b-4364-8442-2c38d07b2935" channelId="02558a8d-1b52-48e2-a165-fba76e0a77e2" />
@@ -832,12 +835,18 @@
     <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="b3a6e149-e75d-4f4e-84f2-19fde2434ad4" />
     <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="49ded15a-ffc2-4de0-91e3-e6decef618d8" />
     <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="fd069482-9879-4d13-9278-c6963dc09081" />
-    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="db3a9038-9448-44af-a080-a131e9837368" />
-    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="d2639496-23b5-42fc-a343-22b643e070e5" />
     <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="6ecec64d-f496-4bbd-baec-f641aa9b470a" />
     <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="e274636d-d5e0-4ba6-b654-830e8466e536" />
     <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="29652a93-40b2-4aff-95f4-9f85efd0aa5a" />
     <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="674366be-ddbf-4a1f-a356-3a76c08ec906" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="91e4e386-95d3-4190-b7f8-199f23847a71" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="c10512cb-8c3d-4d98-91e2-87b4d02e3c80" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="f4c17d3f-4216-459f-bf51-349dccfa6b7f" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="867d6cf5-8b40-47ee-af2c-cf0e29cdaf71" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="94cb00b8-21cc-418d-a8da-ecce557a5764" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="e69f91ea-5383-4d5c-a0a9-37128939d9ac" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="e749116d-00e2-4eda-83ed-f2a9e651e116" />
+    <FilterNode typeId="ab38a16f-0de1-4f6e-a8c0-ae5b20d347e0" instanceId="1145bc78-7a5a-4d64-97c4-ebb2daa55df3" />
   </Filters>
   <Patches>
     <Patch componentId="377b9f36-594f-4ba8-8815-a407ee4c9ba6" sourceId="41a48fcd-1d4f-470f-b518-a69afd5e26fa" output="0" />
@@ -878,8 +887,8 @@
     <Patch componentId="e836a3fc-a815-4e19-880a-0fcf1ec7ef06" sourceId="9b0eacb0-2e49-4478-bf1e-75db8a0fd911" output="0" />
     <Patch componentId="34c58b8e-fa59-45d8-ba4d-f50328520ebb" sourceId="79209e46-d22d-4ead-bf02-ec5bf7813a3f" output="0" />
     <Patch componentId="ba5d2748-e118-46dd-8e94-b446b6de32b7" sourceId="a76f37bb-94a7-461a-a43b-0a37168297ee" output="0" />
-    <Patch componentId="d2639496-23b5-42fc-a343-22b643e070e5" sourceId="36d3cada-c47d-4824-9ab6-ceb534b37556" output="0" />
-    <Patch componentId="db3a9038-9448-44af-a080-a131e9837368" sourceId="c3036650-7985-4bc2-8741-f38b57f31391" output="0" />
+    <Patch componentId="c10512cb-8c3d-4d98-91e2-87b4d02e3c80" sourceId="c628cf73-d2c8-47c4-8f62-1ebe0b3074ae" output="0" />
+    <Patch componentId="91e4e386-95d3-4190-b7f8-199f23847a71" sourceId="bf638c74-a86b-49f3-83a7-ade567d29b06" output="0" />
     <Patch componentId="055d90be-5411-442a-b8b0-a2dc776d9c51" sourceId="5245214e-d6bd-4e07-804f-814927d65c5e" output="0" />
     <Patch componentId="566e7a8c-a633-4c69-bfe4-a93c6f1db09d" sourceId="c8d7b012-83f8-479b-a53e-d4732bcbf6c2" output="0" />
     <Patch componentId="fd069482-9879-4d13-9278-c6963dc09081" sourceId="4cb515c8-f3d2-4445-a9b8-0b53e6893cb4" output="0" />
@@ -898,12 +907,16 @@
     <Patch componentId="9fe86e37-04aa-4c75-838f-514a7b1471b2" sourceId="e5f4d055-13d3-4f06-8f75-7a6a6a8ce23e" output="0" />
     <Patch componentId="7c664785-215c-4619-badb-cd005997978f" sourceId="0b42740d-1fbb-4cb6-8303-c31e3b30774e" output="0" />
     <Patch componentId="0a4c06da-485c-4a03-b7db-a1489fcb75bb" sourceId="88808750-d385-41df-b387-19fd2bdf0ba4" output="0" />
+    <Patch componentId="1145bc78-7a5a-4d64-97c4-ebb2daa55df3" sourceId="f2e22c93-409b-462e-b4ae-b4abc73cf139" output="0" />
     <Patch componentId="6ecec64d-f496-4bbd-baec-f641aa9b470a" sourceId="820f02d2-01f0-42c1-b623-6ab48fdf6eb0" output="0" />
     <Patch componentId="e274636d-d5e0-4ba6-b654-830e8466e536" sourceId="d674c3ca-62f8-4fd8-81ca-a26c4ad2064f" output="0" />
     <Patch componentId="29652a93-40b2-4aff-95f4-9f85efd0aa5a" sourceId="2acf64f8-93bc-42f2-9d18-61131d9be933" output="0" />
     <Patch componentId="674366be-ddbf-4a1f-a356-3a76c08ec906" sourceId="fda5d30d-4cec-46b0-a6f6-0e33638c92c2" output="0" />
+    <Patch componentId="e749116d-00e2-4eda-83ed-f2a9e651e116" sourceId="909ec06b-95ab-47c5-a6db-2c46c405f431" output="0" />
+    <Patch componentId="e69f91ea-5383-4d5c-a0a9-37128939d9ac" sourceId="75c39c31-b64f-4504-8f8f-b220dbe22a12" output="0" />
+    <Patch componentId="867d6cf5-8b40-47ee-af2c-cf0e29cdaf71" sourceId="ca03df6e-4368-46c5-90dd-e258b2d0f308" output="0" />
+    <Patch componentId="94cb00b8-21cc-418d-a8da-ecce557a5764" sourceId="6030b79a-b393-45d4-b06c-49331e96dc51" output="0" />
+    <Patch componentId="f4c17d3f-4216-459f-bf51-349dccfa6b7f" sourceId="a56068be-5b95-4bc0-b7b3-d0e0f1e5939c" output="0" />
   </Patches>
-  <DisabledDevices>
-    <Device id="ba25e5ec-5eb4-4462-aa4f-83afdd179888" />
-  </DisabledDevices>
+  <DisabledDevices />
 </SystemConfig>
