@@ -26775,14 +26775,14 @@
             </a:Shape>
           </a:DisplayItem>
         </DisplayItems>
-        <Height>1096</Height>
-        <Left>1912</Left>
+        <Height>1092</Height>
+        <Left>2078</Left>
         <SaveLocations>true</SaveLocations>
         <SetupHeight>879</SetupHeight>
         <SetupLeft>214</SetupLeft>
         <SetupTop>66</SetupTop>
         <SetupWidth>1624</SetupWidth>
-        <Top>-8</Top>
+        <Top>85</Top>
         <Width>1936</Width>
       </VixenPreviewData>
     </Module>
