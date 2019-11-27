@@ -29327,13 +29327,13 @@
           </a:DisplayItem>
         </DisplayItems>
         <Height>775</Height>
-        <Left>2058</Left>
+        <Left>2208</Left>
         <SaveLocations>true</SaveLocations>
         <SetupHeight>879</SetupHeight>
         <SetupLeft>214</SetupLeft>
         <SetupTop>66</SetupTop>
         <SetupWidth>1624</SetupWidth>
-        <Top>152</Top>
+        <Top>127</Top>
         <Width>1187</Width>
       </VixenPreviewData>
     </Module>
@@ -31325,7 +31325,7 @@
       <ColorData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Color" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">8150899e-af61-448f-a508-c6cac979e32d</ModuleInstanceId>
         <ModuleTypeId xmlns="">bff34727-6b88-4f87-82b7-68424498c725</ModuleTypeId>
-        <ColorSetName>Multi_06</ColorSetName>
+        <ColorSetName>RGBWW</ColorSetName>
         <ElementColorType>MultipleDiscreteColors</ElementColorType>
         <SingleColor xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
           <a:knownColor>35</a:knownColor>
