@@ -1660,7 +1660,7 @@
       <ColorData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Color" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">5eb32700-6857-4205-99d6-df243bc74097</ModuleInstanceId>
         <ModuleTypeId xmlns="">bff34727-6b88-4f87-82b7-68424498c725</ModuleTypeId>
-        <ColorSetName>Multi_06</ColorSetName>
+        <ColorSetName>2-White</ColorSetName>
         <ElementColorType>MultipleDiscreteColors</ElementColorType>
         <SingleColor xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
           <a:knownColor>35</a:knownColor>
@@ -1674,8 +1674,8 @@
       <ColorData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Color" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">a9d97b78-e00b-4b84-9f07-117bc0b81829</ModuleInstanceId>
         <ModuleTypeId xmlns="">bff34727-6b88-4f87-82b7-68424498c725</ModuleTypeId>
-        <ColorSetName>RGBWW</ColorSetName>
-        <ElementColorType>SingleColor</ElementColorType>
+        <ColorSetName>2-White</ColorSetName>
+        <ElementColorType>MultipleDiscreteColors</ElementColorType>
         <SingleColor xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
           <a:knownColor>0</a:knownColor>
           <a:name i:nil="true" />
@@ -29327,13 +29327,13 @@
           </a:DisplayItem>
         </DisplayItems>
         <Height>775</Height>
-        <Left>2208</Left>
+        <Left>2060</Left>
         <SaveLocations>true</SaveLocations>
         <SetupHeight>879</SetupHeight>
         <SetupLeft>214</SetupLeft>
         <SetupTop>66</SetupTop>
         <SetupWidth>1624</SetupWidth>
-        <Top>127</Top>
+        <Top>81</Top>
         <Width>1187</Width>
       </VixenPreviewData>
     </Module>
