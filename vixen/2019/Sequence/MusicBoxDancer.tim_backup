@@ -5134,7 +5134,7 @@
     <SourceName>02 - Music Box Dancer (Radio Version).mp3</SourceName>
   </_selectedTimingProviderSurrogate>
   <DefaultPlaybackEndTime i:nil="true" />
-  <DefaultPlaybackStartTime>PT33.0470111S</DefaultPlaybackStartTime>
+  <DefaultPlaybackStartTime>PT57.1017986S</DefaultPlaybackStartTime>
   <DefaultRowHeight>32</DefaultRowHeight>
   <DefaultSplitterDistance>331</DefaultSplitterDistance>
   <MarkCollections>
@@ -6117,14 +6117,6 @@
       </d1p1:Value>
     </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
     <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
-      <d1p1:Key>-1541702427</d1p1:Key>
-      <d1p1:Value>
-        <Expanded>true</Expanded>
-        <RowHeight>32</RowHeight>
-        <Visible>true</Visible>
-      </d1p1:Value>
-    </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
-    <d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
       <d1p1:Key>2037339110</d1p1:Key>
       <d1p1:Value>
         <Expanded>true</Expanded>
@@ -6134,5 +6126,5 @@
     </d1p1:KeyValueOfdoubleRowSettingEF_SIuqLd>
   </RowSettings>
   <TimePerPixel>PT0.0047829S</TimePerPixel>
-  <VisibleTimeStart>PT36.3717541S</VisibleTimeStart>
+  <VisibleTimeStart>PT1M3.7710547S</VisibleTimeStart>
 </TimedSequenceData>
