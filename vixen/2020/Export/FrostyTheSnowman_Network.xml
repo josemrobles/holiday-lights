@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vixen3_Export>
+	<Resolution>50</Resolution>
+	<OutFile>FrostyTheSnowman.fseq</OutFile>
+	<Duration>00:02:09.4100000</Duration>
+	<Network>
+		<Controller>
+			<Index>0</Index>
+			<Name>Renard</Name>
+			<StartChan>1</StartChan>
+			<Channels>224</Channels>
+		</Controller>
+	</Network>
+</Vixen3_Export>

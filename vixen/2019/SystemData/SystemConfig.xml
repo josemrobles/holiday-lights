@@ -758,8 +758,6 @@
       </Outputs>
     </Controller>
   </Controllers>
-  <ControllerLinks />
-  <SmartControllers />
   <Previews>
     <Preview name="Vixen Display Preview" typeId="f43c31bc-cfcd-4dbc-adb7-d349c9ec623d" instanceId="ba25e5ec-5eb4-4462-aa4f-83afdd179888" />
   </Previews>
